@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.SURGERY one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.surgery        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.surgery        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.surgery      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.surgery  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.surgery      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.SURGERY one word doma
 | abatic.surgery     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.surgery    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.surgery   | available | 50       | 1%     | 8      |           |         |         |
-| abc.surgery        | available | 102      | 41%    | 3      |           |         |         |
+| abc.surgery        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.surgery  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.surgery  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.surgery | available | 56       | 1%     | 10     |           |         |         |
