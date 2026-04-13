@@ -64,7 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| free.surgery      | available | $67.49    | $71.99        | 88             | 59     | 4      | name.com                                    |
+| free.surgery      | available | $67.49    | $71.99        | 88             | 57     | 4      | name.com                                    |
 | cloud.surgery     | resell    | —         | —             | 70             | 59     | 5      | Dynadot Inc                                 |
 | easy.surgery      | premium   | $500      | $500          | 128            | 68     | 4      | name.com                                    |
 | zero.surgery      | available | $67.49    | $71.99        | 112            | 53     | 4      | name.com                                    |
@@ -73,15 +73,15 @@ print(df.head())
 | true.surgery      | available | $67.49    | $71.99        | 86             | 52     | 4      | name.com                                    |
 | smith.surgery     | resell    | —         | —             | 66             | 42     | 5      | Porkbun LLC                                 |
 | data.surgery      | premium   | $260      | $260          | 70             | 56     | 4      | namecheap                                   |
-| clear.surgery     | available | $67.49    | $71.99        | 90             | 49     | 5      | name.com                                    |
+| simple.surgery    | available | $67.49    | $71.99        | 128            | 49     | 6      | name.com                                    |
 | remote.surgery    | resell    | —         | —             | 108            | 39     | 6      | Porkbun LLC                                 |
 | business.surgery  | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                                   |
-| security.surgery  | available | $68.98    | —             | 70             | 49     | 8      | namecheap                                   |
+| clear.surgery     | available | $67.49    | $71.99        | 90             | 49     | 5      | name.com                                    |
 | virtual.surgery   | resell    | —         | —             | —              | 39     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| fast.surgery      | premium   | $500      | $500          | 82             | 53     | 4      | name.com                                    |
-| simple.surgery    | available | $67.49    | $71.99        | 128            | 48     | 6      | name.com                                    |
-| aesthetic.surgery | resell    | —         | —             | 88             | 31     | 9      | Spaceship, Inc.                             |
 | art.surgery       | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
+| security.surgery  | available | $68.98    | —             | 70             | 49     | 8      | namecheap                                   |
+| aesthetic.surgery | resell    | —         | —             | 88             | 31     | 9      | Spaceship, Inc.                             |
+| fast.surgery      | premium   | $500      | $500          | 82             | 52     | 4      | name.com                                    |
 | all.surgery       | available | $67.49    | $71.99        | 88             | 48     | 3      | name.com                                    |
 | cell.surgery      | resell    | —         | —             | 94             | 29     | 4      | NameCheap, Inc.                             |
 
