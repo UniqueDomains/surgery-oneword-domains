@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .surgery one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $71.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/surgery`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | skills.surgery   | available | $67.49    | —             | 58             | 47     | 6      | name.com  |
 | cars.surgery     | premium   | $123.75   | —             | 66             | 47     | 4      | name.com  |
-| whynot.surgery   | available | $67.49    | —             | 74             | 39     | 7      | name.com  |
+| whynot.surgery   | available | $67.49    | —             | 74             | 44     | 7      | name.com  |
 | jobs.surgery     | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
 | stories.surgery  | available | $67.49    | —             | 58             | 36     | 7      | name.com  |
 | tickets.surgery  | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
