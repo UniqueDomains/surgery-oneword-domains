@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .surgery one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,777 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $71.46 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $66.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/surgery`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/surgery`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SURGERY one-word doma
 
 ### Files
 
-- `surgery.csv` — public CSV extract (1,000 rows)
-- `surgery.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `surgery.csv`, public CSV extract (1,000 rows)
+- `surgery.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| skills.surgery   | available | $67.49    | —             | 58             | 47     | 6      | name.com  |
-| cars.surgery     | premium   | $123.75   | —             | 66             | 47     | 4      | name.com  |
-| whynot.surgery   | available | $67.49    | —             | 74             | 44     | 7      | name.com  |
-| jobs.surgery     | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| stories.surgery  | available | $67.49    | —             | 58             | 36     | 7      | name.com  |
-| tickets.surgery  | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo  |
-| payments.surgery | available | $67.49    | —             | 58             | 33     | 8      | name.com  |
-| SanDiego.surgery | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
-| maps.surgery     | available | $67.49    | —             | 56             | 31     | 4      | name.com  |
-| photos.surgery   | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
-| spaces.surgery   | available | $67.49    | —             | 54             | 30     | 6      | name.com  |
-| toys.surgery     | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo  |
-| videos.surgery   | available | $67.49    | —             | 52             | 30     | 6      | name.com  |
-| reports.surgery  | premium   | $82.50    | —             | 58             | 24     | 7      | name.com  |
-| heroes.surgery   | available | $67.49    | —             | 68             | 29     | 6      | name.com  |
-| boats.surgery    | premium   | $123.75   | —             | 52             | 24     | 5      | name.com  |
-| quotes.surgery   | available | $67.49    | —             | 58             | 29     | 6      | name.com  |
-| results.surgery  | premium   | $250      | —             | 59             | 22     | 7      | name.com  |
-| Jim.surgery      | available | $68.98    | —             | 78             | 28     | 3      | namecheap |
-| rocks.surgery    | premium   | $123.75   | —             | 78             | 18     | 5      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ale.surgery | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo  |
+| add.surgery | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| and.surgery | available | $54.99    | $54.99        | high           | medium | 3      | namesilo  |
+| ask.surgery | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
+| Ann.surgery | available | $54.99    | $54.99        | high           | low    | 3      | namesilo  |
+| far.surgery | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| bob.surgery | available | $54.99    | $54.99        | high           | medium | 3      | namesilo  |
+| kid.surgery | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| don.surgery | available | $54.99    | $54.99        | high           | low    | 3      | namesilo  |
+| leg.surgery | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| dry.surgery | available | $67.49    | $71.99        | high           | low    | 3      | name.com  |
+| map.surgery | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
+| for.surgery | available | $54.99    | $54.99        | high           | medium | 3      | namesilo  |
+| pin.surgery | premium   | $123.75   | —             | high           | low    | 3      | name.com  |
+| gee.surgery | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo  |
+| sad.surgery | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com  |
+| god.surgery | available | $54.99    | $54.99        | high           | medium | 3      | namesilo  |
+| see.surgery | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| how.surgery | available | $54.99    | $54.99        | high           | low    | 3      | namesilo  |
+| ugh.surgery | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .surgery domains. The names range from medically adjacent terms to broad dictionary words such as key.surgery, child.surgery, compound.surgery, and laugh.surgery. For founders, the best candidates are the terms that read clearly, feel credible in a clinical setting, and are easy to say aloud without explanation. For investors, the sharper opportunities are usually words with obvious healthcare relevance, strong memorability, and realistic pricing. Because the extension is highly specific, fit matters more here than novelty. When comparing these domains, weigh the word’s meaning against the narrowness of .surgery and the median ask of 71.46.
+This list of one-word .surgery domain names spans everyday words and phrases—like chickensoup, ladies, geton, and destination—paired with the .surgery extension. Most listings sit near a median asking price of $67, making this a low-cost pool for testing brandable, single-word names outside mainstream TLDs. Because .surgery is a non-mainstream extension, availability tends to stay high, and renewal cost matters more than acquisition price when evaluating long-term value across these names.
 
-- Prioritize words that fit surgical or clinical use cases
-- Generic dictionary words need stronger relevance here
-- Use median ask 71.46 as a basic price reference
-- Check ambiguity and trademark risk before deciding
+- 12,777 one-word .surgery domains available now
+- Median ask near $67 keeps entry cost low
+- Everyday-word names, not just medical terms
+- Non-mainstream TLD—check renewal before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
