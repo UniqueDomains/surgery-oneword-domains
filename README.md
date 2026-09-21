@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .surgery one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,338 domains · **Median ask:** $60.49 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/surgery`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| half.surgery    | available | $54.99    | $54.99        | high           | low    | 4      | namesilo                                    |
+| okay.surgery    | available | $67.49    | $71.99        | high           | low    | 4      | name.com                                    |
+| beauty.surgery  | premium   | $520      | $520          | high           | low    | 6      | namecheap                                   |
 | ale.surgery     | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                    |
 | virtual.surgery | resell    | —         | —             | medium         | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | add.surgery     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
@@ -81,9 +84,6 @@ print(df.head())
 | pin.surgery     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                    |
 | for.surgery     | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                                    |
 | sad.surgery     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                    |
-| gee.surgery     | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                    |
-| see.surgery     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| god.surgery     | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURGERY One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
