@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5f4a189b-a91a-4d70-a58c-4ff83b407f4e,tore.surgery,available,45.16,45.16,medium,low,4,dynadot,,,30/09/2026 03:02
 9f5e5f2b-3a04-480b-b7fe-1641e9c15565,elderberry.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 00:39
+bc4b6529-0e73-40c8-b1d0-f93283e12ed2,flavored.surgery,available,54.99,54.99,high,low,8,namesilo,,,03/10/2026 03:19
 0f417026-bf1d-452a-96e7-545cfdc33e23,toad.surgery,available,57.98,68.98,high,low,4,namecheap,,,05/08/2026 21:06
 3443391e-f606-4f33-9745-ca3de995f2e1,bloomfield.surgery,available,54.99,54.99,high,low,10,namesilo,,,25/09/2026 21:57
 11719993-cdf1-4d73-9bce-8d162a438bf4,searches.surgery,available,57.98,68.98,medium,low,8,namecheap,,,20/09/2026 07:30
@@ -9,6 +10,7 @@ f7c4a8bd-024e-4b2a-bddd-8bca15317e1b,ageless.surgery,available,54.99,54.99,high,
 f044b5d1-ac33-4395-8de1-e43b8a5edec7,unconfused.surgery,available,54.99,54.99,medium,low,10,namesilo,,,12/09/2026 01:27
 a1b980ca-e2eb-46e1-aabe-dad3797f2352,avenger.surgery,available,54.99,54.99,high,low,7,namesilo,,,21/09/2026 08:56
 d1d81396-ae1e-4708-b757-4bb18cde5595,milled.surgery,available,54.99,54.99,medium,low,6,namesilo,,,24/08/2026 23:08
+e717c2c9-b613-41f3-b18a-76142ba16a67,disagreeable.surgery,available,43.67,43.67,medium,low,12,spaceship,,,03/10/2026 02:55
 59171fed-eef7-4b52-99a9-3b332e6f5355,blackening.surgery,available,67.49,71.99,medium,low,10,name.com,,,13/08/2026 18:12
 0c05d98d-bbb8-41de-bb28-0b4c2b86e0a4,delicately.surgery,available,54.99,54.99,medium,low,10,namesilo,,,14/09/2026 11:25
 970fd06b-5279-47cb-99ef-86d8492569ad,fagged.surgery,available,54.99,54.99,medium,low,6,namesilo,,,14/08/2026 14:47
@@ -36,7 +38,6 @@ c2e3eb49-d0b3-4f48-8f5c-cec2842c1fa3,calendar.surgery,available,42.2,42.2,high,m
 f1eb87e3-583b-4a85-a428-46e4b9608dbb,hypothetical.surgery,available,54.99,54.99,medium,low,12,namesilo,,,29/09/2026 02:54
 c21f0149-ac69-44c6-b268-6c0216a08411,guarding.surgery,available,45.16,45.16,medium,low,8,dynadot,,,28/09/2026 12:47
 a6992363-e11f-4957-954d-a612b3357865,isolating.surgery,available,54.99,54.99,medium,low,9,namesilo,,,01/10/2026 22:59
-3e55f0a0-b6e6-4ad4-af32-be3401256833,netherlands.surgery,available,,,high,high,11,,,,
 7228aeac-af0c-4bfa-ba79-28766c1d372c,germans.surgery,available,54.99,54.99,medium,low,7,namesilo,,,27/09/2026 03:03
 431e7b92-681e-450a-a49d-d606b82d194e,apostolic.surgery,available,54.99,54.99,medium,low,9,namesilo,,,06/08/2026 04:04
 7d14ef5f-964e-486f-af25-3681419cd5f1,roll.surgery,available,57.98,68.98,high,low,4,namecheap,,,27/09/2026 15:56
@@ -45,8 +46,9 @@ cbdad7cd-8b6d-4e4e-a569-30f81305fc64,dorothy.surgery,available,57.98,68.98,mediu
 95a7c54e-0f6f-4381-88ca-e3d5f728f68d,witless.surgery,available,57.98,68.98,medium,low,7,namecheap,,,03/09/2026 17:49
 375d636b-1916-4ed1-9f02-7a5db419465f,owed.surgery,available,42.2,42.2,medium,low,4,cloudflare,,,27/09/2026 17:35
 0e3fc9e1-95ef-4672-91a9-d58140ef01de,lyon.surgery,available,43.77,43.77,high,low,4,porkbun,,,01/10/2026 20:25
+cbe1ee1f-89fc-4195-80c8-9ed657fcaac1,commuting.surgery,available,43.67,43.67,high,low,9,spaceship,,,03/10/2026 00:04
 e983c1fe-d1a5-4f5a-b8d2-4ef97e09de4f,enjoyed.surgery,available,54.99,54.99,medium,low,7,namesilo,,,25/09/2026 20:42
-184c741b-2f1e-430c-b614-e16a94edbe75,ttyl.surgery,available,54.99,54.99,medium,low,4,namesilo,,,
+184c741b-2f1e-430c-b614-e16a94edbe75,ttyl.surgery,available,54.99,54.99,medium,low,4,namesilo,,,02/10/2026 14:39
 86a33ad1-2964-448e-8021-0505beb45f8a,pitted.surgery,available,54.99,54.99,medium,low,6,namesilo,,,
 a13fe317-7ecb-4422-a914-b68beb0cd597,tenths.surgery,available,54.99,54.99,medium,low,6,namesilo,,,20/09/2026 23:51
 f505ce67-a818-4e35-8ccc-58bb0ca2d726,minors.surgery,available,42.2,42.2,high,low,6,cloudflare,,,29/09/2026 18:08
@@ -59,18 +61,22 @@ f0e58518-1666-49dc-b4ba-3ad7604759f6,eastward.surgery,available,54.99,54.99,high
 c0869eea-159d-4e07-8b4d-801c359fdf33,sterope.surgery,available,54.99,54.99,low,low,7,namesilo,,,20/09/2026 17:14
 5196cd7a-c2b2-47e2-ad35-ca96ee815c9c,hastings.surgery,available,54.99,54.99,high,low,8,namesilo,,,22/09/2026 15:09
 13ef422a-3909-4157-9b69-837fa93748ba,scattered.surgery,available,54.99,54.99,medium,low,9,namesilo,,,14/08/2026 11:23
-3db824ec-059f-4f3b-8502-f1b24790ccdd,nurses.surgery,available,42.2,42.2,high,low,6,cloudflare,,,28/09/2026 08:12
+3db824ec-059f-4f3b-8502-f1b24790ccdd,nurses.surgery,available,54.99,54.99,high,low,6,namesilo,,,02/10/2026 11:51
 7a240e94-6ba0-4807-97d9-12f8232934e8,undergoing.surgery,available,54.99,54.99,medium,low,10,namesilo,,,29/09/2026 23:42
 051843f4-d6c1-4ce3-9528-89b9480b10e0,ezra.surgery,available,42.2,42.2,high,low,4,cloudflare,,,28/09/2026 18:27
 3718b730-6bb9-41d2-af03-668abbb12d2d,reserves.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 13:26
 76c28316-7e32-45c8-978a-b4c2fc25acaf,index.surgery,available,42.2,42.2,high,medium,5,cloudflare,,,29/09/2026 19:51
 a34765e1-4b12-4578-8e41-bb47a3cfe568,aleve.surgery,available,57.98,68.98,high,low,5,namecheap,,,17/09/2026 15:07
 5cbe3d3a-4f82-4387-8aca-d1a89e46d8f0,aardwolf.surgery,available,54.99,54.99,medium,low,8,namesilo,,,19/09/2026 15:52
+790fcb6d-03ac-400a-bba8-65a8824523d1,fowler.surgery,available,42.2,42.2,medium,low,6,cloudflare,,,02/10/2026 04:56
 c2607a87-7bff-4543-8559-40fd57459fc0,fear.surgery,available,54.99,54.99,high,low,4,namesilo,,,24/09/2026 12:06
 8f1c37b8-dc3e-4f9c-9502-95f97ea6287d,frantic.surgery,available,54.99,54.99,medium,low,7,namesilo,,,18/08/2026 14:15
+64ebc0a9-a9bb-4db7-8512-99e36e758fe8,cocteau.surgery,available,43.77,43.77,medium,low,7,porkbun,,,02/10/2026 14:42
 8cc205fa-4471-4986-ac5f-a3b571612a45,niosh.surgery,available,42.2,42.2,medium,low,5,cloudflare,,,02/10/2026 00:36
 4c9798f1-41e0-4c83-bdb8-8ddf534f2576,unlikeable.surgery,available,54.99,54.99,medium,low,10,namesilo,,,12/09/2026 00:56
+1af1cae4-37af-4f19-bb40-5901110b73e4,hinted.surgery,available,43.67,43.67,medium,low,6,spaceship,,,02/10/2026 11:25
 9358fb12-4f87-4770-946b-0f74e0e5eb8e,mervyn.surgery,available,54.99,54.99,medium,low,6,namesilo,,,30/09/2026 20:52
+10a30595-bb66-4a6c-baae-95b82d9f51b7,libel.surgery,available,43.67,43.67,high,low,5,spaceship,,,02/10/2026 05:37
 48f7cf0a-5ee8-4791-99c7-98653d233f9f,dioecious.surgery,available,54.99,54.99,medium,low,9,namesilo,,,14/08/2026 08:20
 9d2d7248-3f31-482d-b99d-42724e92312b,plane.surgery,available,57.98,68.98,high,low,5,namecheap,,,24/09/2026 19:36
 b1b6460d-dd47-42aa-8ee8-3463f1adc69d,government.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 22:50
@@ -111,14 +117,17 @@ de59c83d-5b1b-4c43-b861-a1ca2183b01b,force.surgery,available,54.99,54.99,high,lo
 ac0d07e2-bc38-4444-a86d-ad700797a764,capacity.surgery,available,57.98,68.98,high,low,8,namecheap,,,24/09/2026 12:12
 02182339-ce90-4839-9890-b054d9dbd886,being.surgery,available,54.99,54.99,high,low,5,namesilo,,,23/09/2026 04:18
 0d4e82e9-67f7-4d4e-aca4-0b5c220fd086,falmouth.surgery,available,43.67,43.67,medium,low,8,spaceship,,,28/09/2026 07:50
+27f63abf-3cbc-4aa0-8a5b-e86bb70462b9,werke.surgery,available,42.2,42.2,high,low,5,cloudflare,,,02/10/2026 18:48
 ad75f997-56a8-4de1-865f-b0aab561f5d1,sierra.surgery,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 02:48
 cdf0975e-10b9-43a2-bc46-ab4d59cf2094,ultraviolet.surgery,available,57.98,68.98,high,low,11,namecheap,,,30/09/2026 03:39
+8dc19663-da16-4569-b78b-313149460a22,schoharie.surgery,available,54.99,54.99,medium,low,9,namesilo,,,02/10/2026 10:42
 f66464ee-67fa-4a18-8a99-edbe3365f470,sus.surgery,available,54.99,54.99,high,low,3,namesilo,,,28/09/2026 14:17
 b5a033dd-4756-41a5-bcf0-fee59677f747,bargaining.surgery,available,54.99,54.99,high,low,10,namesilo,,,22/09/2026 05:36
 41c96f81-a08d-4880-8d43-5f9541a58fe3,nuremberg.surgery,available,54.99,54.99,medium,low,9,namesilo,,,25/09/2026 23:53
 823cd381-5fe3-4dc6-8202-f48f739ccdcc,organ.surgery,available,45.16,45.16,high,low,5,dynadot,,,29/09/2026 17:54
 88323b5e-a358-4ea2-92c3-810216378841,drill.surgery,available,54.99,54.99,high,low,5,namesilo,,,25/09/2026 00:07
 ded8a6af-e4d7-42c1-ba4d-2e1d86b0b357,laziness.surgery,available,57.98,68.98,medium,low,8,namecheap,,,28/09/2026 17:35
+98685b84-229b-4231-91ab-5a32942338be,purdy.surgery,available,42.2,42.2,high,low,5,cloudflare,,,02/10/2026 21:41
 8c67a4a2-4ed4-4b97-ad44-962631f1b1e9,grande.surgery,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 02:58
 4f9c2131-0e28-4c27-beea-3760e3aafa79,hebron.surgery,available,54.99,54.99,medium,low,6,namesilo,,,28/09/2026 16:34
 f11fadd5-b1e6-40db-9b7b-681c3388a2bd,minatory.surgery,available,57.98,68.98,low,low,8,namecheap,,,24/08/2026 19:58
@@ -151,12 +160,12 @@ ece27946-9de9-4cc6-9953-fdbbef088df8,stable.surgery,available,54.99,54.99,high,l
 fa004ac9-a639-4d4e-a024-c634c00a2eec,kerr.surgery,available,57.98,68.98,high,low,4,namecheap,,,25/09/2026 19:26
 4d973949-e32b-4c52-841d-698c927842de,conjoin.surgery,available,54.99,54.99,high,low,7,namesilo,,,13/09/2026 09:37
 a8cf4e05-8db4-46cf-9942-c9f04e3760b7,prudishly.surgery,available,54.99,54.99,low,low,9,namesilo,,,15/09/2026 21:53
-9f6f0949-7873-4938-9c50-9022e8bc2870,recommending.surgery,available,54.99,54.99,medium,low,12,namesilo,,,30/09/2026 09:39
+9f6f0949-7873-4938-9c50-9022e8bc2870,recommending.surgery,available,43.67,43.67,medium,low,12,spaceship,,,02/10/2026 15:55
 6e9d9bfd-1500-4ae2-929e-386b10967dc6,printmaking.surgery,available,43.77,43.77,high,low,11,porkbun,,,30/09/2026 14:30
 87787bee-4362-457d-bfc5-9cd42b51565c,welding.surgery,available,54.99,54.99,high,low,7,namesilo,,,30/09/2026 11:19
 bbe09e90-9a0a-4b71-93f8-2bda8a79da70,plato.surgery,available,45.16,45.16,high,low,5,dynadot,,,29/09/2026 13:42
 ee43ae55-dbde-47e9-b464-87715b552af3,infusion.surgery,available,43.67,43.67,high,low,8,spaceship,,,01/10/2026 19:30
-343d3146-8cdf-41d1-84ea-7c84b16188bb,shortcut.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 13:56
+343d3146-8cdf-41d1-84ea-7c84b16188bb,shortcut.surgery,available,42.2,42.2,medium,low,8,cloudflare,,,02/10/2026 21:28
 2b27a3f5-9c41-4e72-8734-911ad54979ff,perturb.surgery,available,54.99,54.99,medium,low,7,namesilo,,,24/09/2026 22:49
 3f5c8ff2-e50b-4064-ae0a-6665d84e0563,abaca.surgery,available,67.49,71.99,medium,low,5,name.com,,,16/09/2026 13:44
 2ce44842-3a71-4eda-a42b-99d41ef684e2,plucky.surgery,available,54.99,54.99,high,low,6,namesilo,,,18/08/2026 00:47
@@ -170,12 +179,14 @@ aaf6b26f-f691-40fe-a9f9-1ade08fe9d92,mineral.surgery,available,54.99,54.99,high,
 1ddf6c10-9ff4-4dcc-9482-31c80ff26cc1,pest.surgery,available,43.67,43.67,medium,low,4,spaceship,,,28/09/2026 18:26
 ae39dd3d-b832-4bf2-8621-5809837863b8,afterward.surgery,available,54.99,54.99,medium,low,9,namesilo,,,
 a33c20cf-4b0e-4347-812b-72ebdacbc4d8,crone.surgery,available,54.99,54.99,medium,low,5,namesilo,,,23/09/2026 04:47
+acf096c6-2cb4-49bc-bc24-d2edc80d9527,purify.surgery,available,42.2,42.2,high,low,6,cloudflare,,,02/10/2026 06:43
 f771ee14-15f2-4b9f-9ce9-66b77c0f5509,ancient.surgery,available,54.99,54.99,high,low,7,namesilo,,,22/09/2026 04:21
 02869b6d-1ccb-4153-aff6-0e15c0b10e15,smoking.surgery,available,42.2,42.2,high,low,7,cloudflare,,,27/09/2026 23:20
 b4e767de-94c5-42b4-97ea-36b37409c195,regulatory.surgery,available,54.99,54.99,high,low,10,namesilo,,,09/09/2026 13:17
 0a2db9d6-ef6b-4bf5-8c43-dbd87f253547,slime.surgery,available,42.2,42.2,high,low,5,cloudflare,,,29/09/2026 12:55
 6e4e7338-579a-481e-adcb-cd8f9c0667a3,experiencing.surgery,available,43.77,43.77,high,low,12,porkbun,,,28/09/2026 13:20
 3f7b2475-a08e-418f-bad4-3675c0b7d4d6,banshie.surgery,available,54.99,54.99,medium,low,7,namesilo,,,22/09/2026 03:10
+cc925937-7b99-4ce8-ba6f-3208ee21b619,errands.surgery,available,54.99,54.99,medium,low,7,namesilo,,,02/10/2026 22:28
 6153ff72-d645-45ad-8181-1ad0e3427a94,create.surgery,available,54.99,54.99,high,medium,6,namesilo,,,19/09/2026 12:28
 78c58359-d189-43d0-bb39-10ffe00814a3,slept.surgery,available,54.99,54.99,medium,low,5,namesilo,,,
 b499fa33-219a-4ecc-87de-8759963d0b12,fiddling.surgery,available,54.99,54.99,medium,low,8,namesilo,,,18/08/2026 03:28
@@ -191,6 +202,7 @@ cb8ec1d8-d8f5-403a-ad1c-9efdb32cce64,consort.surgery,available,54.99,54.99,mediu
 567d68e5-b057-4573-9f43-f4ff7fdb7dcd,entree.surgery,available,67.49,71.99,high,low,6,name.com,,,16/09/2026 22:08
 4d48defd-61be-4f46-8ba7-150e4b7ab678,proficient.surgery,available,57.98,68.98,high,low,10,namecheap,,,21/09/2026 17:23
 c2bde71d-7f78-4f04-812d-778c77b12993,peel.surgery,available,43.67,43.67,high,low,4,spaceship,,,30/09/2026 06:31
+e01249bd-08c5-457e-98c2-aef21b84507b,joh.surgery,available,43.67,43.67,medium,low,3,spaceship,,,02/10/2026 19:21
 99d9defa-76e3-4c82-b2d4-f9bc792fe0aa,sparrow.surgery,available,45.16,45.16,high,low,7,dynadot,,,29/09/2026 00:43
 2ab16580-c73e-4303-83fe-6bf4b600e291,torre.surgery,available,54.99,54.99,high,low,5,namesilo,,,28/09/2026 03:40
 b0c1a544-9909-4564-9ec1-8fb2f9ba5037,kurt.surgery,available,54.99,54.99,high,low,4,namesilo,,,25/09/2026 13:27
@@ -221,7 +233,7 @@ b70b7cc1-3865-4385-9cc4-56d478471dd5,dipolar.surgery,available,54.99,54.99,mediu
 153a899c-6923-4da8-b5bc-1e8d0a6d3c9a,thrift.surgery,available,57.98,68.98,high,low,6,namecheap,,,27/09/2026 03:24
 ecb3426f-79a8-4308-b7bd-ee069e65199d,neat.surgery,available,54.99,54.99,high,low,4,namesilo,,,22/09/2026 16:59
 88bf5272-e03c-4f04-b3d0-a76526a04bfa,chamfer.surgery,available,54.99,54.99,medium,low,7,namesilo,,,23/09/2026 12:00
-9aa9f59c-c2e2-4af4-b955-fd343fa67150,description.surgery,available,54.99,54.99,high,low,11,namesilo,,,
+9aa9f59c-c2e2-4af4-b955-fd343fa67150,description.surgery,available,42.2,42.2,high,low,11,cloudflare,,,02/10/2026 21:04
 794d5f41-6542-4b70-9dd2-117ea7643c9a,amos.surgery,available,54.99,54.99,high,low,4,namesilo,,,18/09/2026 22:51
 8a0f485c-a51a-4d71-8d01-3faf312565ab,unthankful.surgery,available,54.99,54.99,medium,low,10,namesilo,,,11/09/2026 12:29
 53b7e501-3ca7-4d50-a25a-671b929cf9d5,explode.surgery,available,54.99,54.99,high,low,7,namesilo,,,27/09/2026 16:32
@@ -235,7 +247,7 @@ c54761c6-3467-40fb-b8b3-1a192411d65c,woolwich.surgery,available,43.67,43.67,medi
 f49b3a9a-e111-4338-b3b6-038148201637,loath.surgery,available,54.99,54.99,medium,low,5,namesilo,,,24/08/2026 08:17
 92a73a34-5d83-4af1-b81a-d350e3d1e3ec,salving.surgery,available,54.99,54.99,medium,low,7,namesilo,,,14/08/2026 01:40
 0de51846-344f-4220-a11c-5cc90ca7f66c,kendrick.surgery,available,54.99,54.99,medium,low,8,namesilo,,,28/09/2026 08:02
-36e37eaf-c1bd-40a1-b938-34a1a41f641e,mouth.surgery,premium,54.36,108.6,high,low,5,porkbun,,,28/09/2026 08:01
+36e37eaf-c1bd-40a1-b938-34a1a41f641e,mouth.surgery,premium,118.8,118.8,high,low,5,namesilo,,,02/10/2026 11:41
 8303bfd6-3b26-4987-914a-c01ec2f67caf,alright.surgery,available,54.99,54.99,high,low,7,namesilo,,,22/09/2026 01:15
 3a3d770e-652c-4040-bdac-8ad8ee048abf,bar.surgery,premium,78.54,78.54,high,low,3,namesilo,,,29/09/2026 01:04
 dc1df321-d565-4503-9f0b-d73da8ac198a,ozark.surgery,available,43.67,43.67,high,low,5,spaceship,,,28/09/2026 21:30
@@ -248,7 +260,7 @@ b0504c50-0741-44cb-8737-3afbf5cd18be,lawrence.surgery,available,54.99,54.99,high
 6575748e-3c33-43fb-a6d3-7bb38272d0b8,inbred.surgery,available,54.99,54.99,medium,low,6,namesilo,,,22/08/2026 00:42
 940bc24c-fe20-4c9e-9482-8fca2d5f1507,steed.surgery,available,42.2,42.2,high,low,5,cloudflare,,,01/10/2026 21:53
 8a9fe05c-ad8b-4d53-83b4-97dfe9a598e6,banneret.surgery,available,54.99,54.99,medium,low,8,namesilo,,,22/09/2026 02:54
-9901f3de-bfe6-4717-86e1-653023ef71b5,inspection.surgery,available,54.99,54.99,high,low,10,namesilo,,,30/09/2026 13:38
+9901f3de-bfe6-4717-86e1-653023ef71b5,inspection.surgery,available,54.99,54.99,high,low,10,namesilo,,,02/10/2026 23:37
 472f0185-4cec-4b06-9f4e-dda2efa8f1ca,thirdly.surgery,available,54.99,54.99,medium,low,7,namesilo,,,11/09/2026 13:39
 ec3eb310-cd68-4b5d-91dd-f0a626759f96,tendered.surgery,available,54.99,54.99,medium,low,8,namesilo,,,20/09/2026 16:36
 2c610929-f10b-4ea9-b741-731e7060153f,insignia.surgery,available,54.99,54.99,high,low,8,namesilo,,,30/09/2026 17:42
@@ -278,12 +290,15 @@ e335b743-b9b5-4c37-a553-408a98739317,axolotl.surgery,available,54.99,54.99,high,
 c30ab896-bdac-4e8b-9bdb-3b9735909909,blackhead.surgery,available,54.99,54.99,medium,low,9,namesilo,,,24/09/2026 02:47
 01913937-6876-471c-9a20-793a3c90c15c,sita.surgery,available,57.98,68.98,medium,low,4,namecheap,,,30/09/2026 18:38
 5be57a7c-9c56-4a6f-ab24-42bbec4a67ac,dining.surgery,available,43.67,43.67,high,low,6,spaceship,,,29/09/2026 15:00
+b9f4ecd5-7a11-4f5d-a8af-21dfd70151b1,degeneration.surgery,available,43.67,43.67,medium,low,12,spaceship,,,02/10/2026 11:07
 fc1d2760-6e30-4071-8687-0f72d45ec10f,haunt.surgery,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 07:08
 e2162d54-f889-48ec-b3d3-547403a4214a,liberating.surgery,available,43.77,43.77,high,low,10,porkbun,,,30/09/2026 19:42
 b2b3f91c-ff3a-40a6-be79-141e532ccb4f,reckoning.surgery,available,43.67,43.67,high,low,9,spaceship,,,30/09/2026 16:48
+8dd288f8-756d-41e9-9314-896c7c00c6e8,penned.surgery,available,43.67,43.67,medium,low,6,spaceship,,,02/10/2026 23:05
 be4071da-3cbb-4039-89f7-003a14ca90d3,selecting.surgery,available,54.99,54.99,medium,low,9,namesilo,,,01/10/2026 16:17
 fca4c0da-6afe-49d0-9220-06cb60aba478,analgesic.surgery,available,54.99,54.99,high,low,9,namesilo,,,
 6dce0d58-1118-4028-a7d2-584036d4dbca,hannah.surgery,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 11:24
+a43f4dab-6102-4d05-a63f-3c5f5fd567fd,palestinian.surgery,available,54.99,54.99,high,low,11,namesilo,,,02/10/2026 06:50
 cc3cab0a-7811-4c81-9144-50c44aaec353,chl.surgery,available,57.98,68.98,high,low,3,namecheap,,,30/09/2026 04:21
 2cb108c0-9a0e-4925-9635-ec1ad4a46366,consultation.surgery,available,42.2,42.2,high,low,12,cloudflare,,,29/09/2026 22:42
 8ed6cae8-a9ee-4fd3-ac15-5dad59814182,donatus.surgery,available,54.99,54.99,medium,low,7,namesilo,,,17/09/2026 12:26
@@ -293,6 +308,7 @@ cc3cab0a-7811-4c81-9144-50c44aaec353,chl.surgery,available,57.98,68.98,high,low,
 40827e75-2be2-4204-b198-844c36ae6beb,tasty.surgery,available,54.99,54.99,high,low,5,namesilo,,,11/09/2026 09:04
 57aebae8-07bf-4b23-ad04-822e6fbf3276,browser.surgery,available,54.99,54.99,high,low,7,namesilo,,,29/09/2026 04:41
 8b0aefcf-e90a-4679-bc9f-f86c24532824,maximizing.surgery,available,57.98,68.98,high,low,10,namecheap,,,24/08/2026 17:56
+f2dd4aa9-0477-43f5-9731-682ca1973e20,irs.surgery,available,43.67,43.67,high,low,3,spaceship,,,03/10/2026 01:19
 97d04691-38ae-4d4f-add7-0c4395ab2883,jiang.surgery,available,57.98,68.98,high,low,5,namecheap,,,27/09/2026 08:14
 f3af5789-1410-4786-8ff5-e004e5bc5b7a,says.surgery,available,54.99,54.99,medium,low,4,namesilo,,,
 7a5add77-82a3-4cf7-be8a-4c2f45ea26bb,jewel.surgery,available,43.67,43.67,high,low,5,spaceship,,,30/09/2026 00:50
@@ -318,8 +334,10 @@ f2b92a30-06c7-47f9-8257-719c9cfdae93,ies.surgery,available,54.99,54.99,medium,lo
 0f87b21c-fabe-4859-a27e-f01d4a953c02,grabby.surgery,available,54.99,54.99,medium,low,6,namesilo,,,07/08/2026 21:58
 a400f9ba-59a5-4d69-96a5-fe961fe2a046,archosaur.surgery,available,54.99,54.99,medium,low,9,namesilo,,,06/08/2026 15:57
 e4d71933-af4f-4de8-920c-f972ce542a57,convention.surgery,available,57.98,68.98,high,low,10,namecheap,,,03/09/2026 21:13
+643621a5-0f6e-4ea7-89ea-9f031023d3fb,iot.surgery,available,43.77,43.77,high,medium,3,porkbun,,,02/10/2026 19:11
 9d9389e9-13c0-4c79-8615-bce90149372e,pants.surgery,available,54.99,54.99,high,low,5,namesilo,,,24/09/2026 06:17
 2fd1e61d-713a-4411-ba6f-0e2d260af9b8,drowsy.surgery,available,57.98,68.98,medium,low,6,namecheap,,,14/08/2026 18:05
+fe7a3513-203f-4650-8553-c84d309663ee,devonshire.surgery,available,43.77,43.77,medium,low,10,porkbun,,,03/10/2026 00:28
 5f855bf0-3246-4da3-abf1-48519240acbb,bequest.surgery,available,57.98,68.98,high,low,7,namecheap,,,23/09/2026 09:04
 6bf3f7cb-9a54-4adf-9b77-0383b5dc58a9,introduces.surgery,available,54.99,54.99,medium,low,10,namesilo,,,18/09/2026 14:34
 28393551-0c55-4ec5-af1f-b3a79b2c5788,vera.surgery,available,43.67,43.67,high,medium,4,spaceship,,,28/09/2026 07:03
@@ -354,6 +372,8 @@ cfaec067-54d9-4d26-b434-2245d6d52d45,trudy.surgery,available,42.2,42.2,medium,lo
 fbaddb1a-bd70-4019-8134-6165e5ceb073,dolores.surgery,available,54.99,54.99,medium,low,7,namesilo,,,28/09/2026 21:59
 cc9ecfec-4dda-4bf3-8b9a-444a6a97e299,vaporized.surgery,available,57.98,68.98,medium,low,9,namecheap,,,18/08/2026 20:28
 b520becd-29e5-4d4f-a45c-9ffd329b5aa7,ductless.surgery,available,57.98,68.98,medium,low,8,namecheap,,,14/08/2026 20:54
+9074b973-58e9-42ba-b0ef-e624e3b7705f,reboot.surgery,available,43.77,43.77,high,low,6,porkbun,,,03/10/2026 02:35
+933c5ab4-3b5a-416d-9d52-48cd59df1a65,transcendent.surgery,available,43.77,43.77,high,low,12,porkbun,,,03/10/2026 02:37
 1c6092f3-2179-4fe5-b16a-40bfc45c125c,lisbon.surgery,available,54.99,54.99,high,low,6,namesilo,,,29/09/2026 06:46
 c563bb50-dc8e-43c8-bb33-5278a3009816,practices.surgery,available,57.98,68.98,medium,low,9,namecheap,,,16/09/2026 19:21
 7572e312-8f48-43d8-bc52-46bfa70393e8,buoyant.surgery,available,54.99,54.99,high,low,7,namesilo,,,11/08/2026 10:06
@@ -376,6 +396,7 @@ f8f046e2-bdf3-445a-987b-dfb9331210b1,grip.surgery,available,43.67,43.67,high,low
 35563466-cc63-4c71-a608-caf0f6545ef9,dissent.surgery,available,54.99,54.99,high,low,7,namesilo,,,29/09/2026 16:15
 e6eaeef0-83a7-4c9d-bf25-36dca2292a59,discretion.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 15:03
 addeec2f-378a-4541-a4d3-7c41ee1d9388,bird.surgery,available,42.2,42.2,high,medium,4,cloudflare,,,29/09/2026 02:46
+848e8492-98f1-4a02-9e02-b82a6cb33aca,ter.surgery,available,43.67,43.67,high,low,3,spaceship,,,02/10/2026 17:20
 27f75bca-df7e-4ec9-9abb-92a68bc1633b,diametric.surgery,available,54.99,54.99,medium,low,9,namesilo,,,14/08/2026 05:56
 d095014d-040e-47e3-bed2-d232bd4b69fb,snitcher.surgery,available,57.98,68.98,medium,low,8,namecheap,,,19/09/2026 14:14
 d8b034ad-2817-45b9-8c76-1c3346fceafe,lxxv.surgery,available,57.98,68.98,medium,low,4,namecheap,,,
@@ -393,9 +414,11 @@ ed7f7db3-0980-4d5b-b060-f41a83f5dddf,acanthus.surgery,available,57.98,68.98,medi
 4e844ec0-1358-404e-8378-8bfba7fbf9ba,fatten.surgery,available,54.99,54.99,medium,low,6,namesilo,,,17/08/2026 23:09
 e0a91b23-9068-43f3-a1e4-679be8b2ce25,matty.surgery,available,57.98,68.98,medium,low,5,namecheap,,,01/10/2026 23:18
 2f168e11-d0f5-4438-b6db-fe26ef7100d1,closets.surgery,available,57.98,68.98,medium,low,7,namecheap,,,20/09/2026 19:05
+9ee72ec5-a8d8-48e6-93c7-6c9b54285138,berta.surgery,available,45.16,45.16,medium,low,5,dynadot,,,02/10/2026 19:43
 441f2cad-f708-4cb5-b342-70917b056f6e,napping.surgery,available,54.99,54.99,high,low,7,namesilo,,,03/09/2026 13:07
 e88c768d-5224-4130-9eb1-3106c099c2d0,didactic.surgery,available,54.99,54.99,high,low,8,namesilo,,,14/08/2026 06:41
 2f1c02e7-d69b-43c1-94be-0b83977c582c,booster.surgery,available,54.99,54.99,high,low,7,namesilo,,,17/09/2026 08:57
+b5e78ace-c0af-431d-a767-092d73f640e8,sle.surgery,available,54.99,54.99,high,low,3,namesilo,,,03/10/2026 00:29
 307ae21e-4e36-4fa0-accb-31ae307673ca,busch.surgery,available,54.99,54.99,medium,low,5,namesilo,,,27/09/2026 03:12
 93943b6b-7616-42d1-82a2-e5205fb479de,benzoin.surgery,available,54.99,54.99,medium,low,7,namesilo,,,20/09/2026 12:33
 37256f08-57b2-42a7-8ae5-a4fba775206a,pelvis.surgery,premium,102.67,102.67,high,low,6,spaceship,,,29/09/2026 19:56
@@ -406,6 +429,7 @@ b303d4ee-2f69-4175-a8e5-18edcb6068a2,feud.surgery,available,42.2,42.2,high,low,4
 0c0a67af-ca71-4f2d-8ad3-75e1e2da6f35,goddard.surgery,available,93.99,93.99,medium,low,7,godaddy,,,30/09/2026 01:46
 fcbf1173-2256-4561-b2ae-78fa053e81ce,benet.surgery,available,54.99,54.99,high,low,5,namesilo,,,23/09/2026 07:58
 466a4e6e-1248-44ea-ae85-dc4210720799,lettres.surgery,available,57.98,68.98,medium,low,7,namecheap,,,29/09/2026 05:30
+6cdd81e0-f17e-40bf-95ca-00d73b5428a2,fisk.surgery,available,57.98,68.98,high,low,4,namecheap,,,02/10/2026 17:54
 687f8d82-0c6e-4ef2-bac8-fea46c58fe1b,accountants.surgery,premium,118.8,118.8,medium,low,11,namesilo,,,20/09/2026 02:26
 9a039483-6d4e-405b-8e0c-5b4746b06d4f,seaside.surgery,available,54.99,54.99,high,low,7,namesilo,,,30/09/2026 10:48
 360a9b56-0216-4586-a7ef-b7425727ab64,tactically.surgery,available,54.99,54.99,medium,low,10,namesilo,,,16/09/2026 07:46
@@ -440,6 +464,7 @@ d0911246-c18b-47ff-bc55-7f1981b0bacf,serrated.surgery,available,54.99,54.99,medi
 8004f79e-7936-40d5-8465-f45aac52c1f1,scraping.surgery,available,43.67,43.67,high,low,8,spaceship,,,30/09/2026 02:48
 6f6a301e-4cc4-433b-a192-5247fa0a1e5e,nicholas.surgery,available,54.99,54.99,high,low,8,namesilo,,,28/09/2026 02:29
 4f26fe37-5a2d-4ab0-86a1-28f85959db8f,expertise.surgery,available,57.98,68.98,high,low,9,namecheap,,,29/09/2026 18:40
+cb820418-4c18-4817-b3df-e5cd01ba256d,slicing.surgery,available,54.99,54.99,high,low,7,namesilo,,,02/10/2026 15:03
 60f54314-a45a-427d-b04d-4d9368c1c09a,vacate.surgery,available,43.77,43.77,medium,low,6,porkbun,,,01/10/2026 19:06
 e688a3f3-058f-4792-89c2-4cd585ea4031,auriga.surgery,available,54.99,54.99,medium,low,6,namesilo,,,21/09/2026 04:24
 7777caf8-38f4-40dc-9486-b4f3f4e0d0c4,mahmoud.surgery,available,54.99,54.99,medium,low,7,namesilo,,,29/09/2026 04:11
@@ -455,12 +480,13 @@ fa7dab16-7b51-424a-9e1f-3e3c81b29ce9,acervulus.surgery,available,54.99,54.99,med
 06bb10bb-5b8b-45e9-9524-155bd8c57185,offence.surgery,available,54.99,54.99,medium,low,7,namesilo,,,04/09/2026 01:34
 914be147-9d66-4370-88b4-26195bdf6c05,ukrainian.surgery,available,54.99,54.99,high,low,9,namesilo,,,11/09/2026 22:41
 c2590832-b7b5-4b92-aae1-8c9334050ff2,quaternary.surgery,available,54.99,54.99,medium,low,10,namesilo,,,
-94595fcb-8b90-48d5-a434-734aaae1f2b6,goodwin.surgery,available,54.99,54.99,high,low,7,namesilo,,,
+94595fcb-8b90-48d5-a434-734aaae1f2b6,goodwin.surgery,available,43.67,43.67,high,low,7,spaceship,,,02/10/2026 13:51
 7a791e8a-6383-49c2-965e-0e0f5e484ebe,burly.surgery,available,54.99,54.99,medium,low,5,namesilo,,,09/08/2026 07:54
 986120ac-5353-43ec-9e11-04aeaeb1b583,hertford.surgery,available,43.67,43.67,medium,low,8,spaceship,,,29/09/2026 22:01
 1da34aef-a0f2-423a-94e2-7a66423ec296,electricians.surgery,available,57.98,68.98,medium,low,12,namecheap,,,20/09/2026 20:08
 aaffbc67-70fe-4e25-a6be-40b6e510371c,prejudice.surgery,available,57.98,68.98,high,low,9,namecheap,,,22/09/2026 20:16
 1a745673-e9c7-49a4-8f88-0a4d365f599c,strengthening.surgery,available,57.98,68.98,high,low,13,namecheap,,,30/09/2026 19:59
+6dec17c6-b98b-4e79-a6a2-20ae5232c5fa,shikoku.surgery,available,42.2,42.2,high,low,7,cloudflare,,,03/10/2026 02:05
 96d4af41-d449-44b8-a37b-ae63d9cb0baa,carts.surgery,available,43.67,43.67,medium,low,5,spaceship,,,30/09/2026 07:03
 3edd2c48-c21c-435b-b6d6-e587c5a1b6a7,unpainted.surgery,available,54.99,54.99,medium,low,9,namesilo,,,12/09/2026 16:25
 43e5699f-74da-4883-929a-0464cfa16582,delay.surgery,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 13:44
@@ -486,6 +512,7 @@ a6a4a655-3399-4e95-96b2-d1d916506a64,chamber.surgery,available,54.99,54.99,high,
 ca6c8ec4-5c65-4fb6-b7bc-37b3f9c99cce,cornerstone.surgery,available,57.98,68.98,high,low,11,namecheap,,,29/09/2026 14:29
 aebef616-0ef7-4640-8ea5-26042d1c9fff,nostalgic.surgery,available,54.99,54.99,high,low,9,namesilo,,,03/09/2026 21:59
 ab054b0b-752d-4d54-aab0-3a1f0084d5c9,raids.surgery,available,54.99,54.99,medium,low,5,namesilo,,,30/09/2026 07:30
+c89289fe-8970-4f54-869a-bd081fd45220,transforms.surgery,available,57.98,68.98,medium,low,10,namecheap,,,02/10/2026 13:13
 0c459468-9096-45e4-bc70-c6b3894800b6,divinity.surgery,available,57.98,68.98,high,low,8,namecheap,,,24/09/2026 21:26
 c5c17df4-a579-4b4d-bac1-013550ed3a14,precedence.surgery,available,54.99,54.99,high,low,10,namesilo,,,19/09/2026 12:40
 d74ff0c8-421a-4680-b1bb-f226090a4f82,redberry.surgery,available,57.98,68.98,medium,low,8,namecheap,,,17/09/2026 04:20
@@ -494,6 +521,7 @@ d74ff0c8-421a-4680-b1bb-f226090a4f82,redberry.surgery,available,57.98,68.98,medi
 72b1be74-306f-4533-8f6d-2ace58a30960,questioner.surgery,available,54.99,54.99,medium,low,10,namesilo,,,20/09/2026 14:25
 e04662f7-d089-4290-a29c-5745cec0f814,sacredly.surgery,available,54.99,54.99,medium,low,8,namesilo,,,15/09/2026 23:01
 15769f3f-7b5d-44bc-bf07-7b76f27d4f2d,hinder.surgery,available,57.98,68.98,high,low,6,namecheap,,,24/09/2026 23:48
+fd072997-1fcd-4899-97c6-88cf8e3a6279,engages.surgery,available,54.99,54.99,medium,low,7,namesilo,,,02/10/2026 22:45
 c3347c8c-80f3-4d7d-b8d3-8bb94b1ebb98,fry.surgery,available,54.99,54.99,high,low,3,namesilo,,,25/08/2026 00:16
 e7e12f1c-e711-48d0-aae3-f851ba595149,donnie.surgery,available,43.67,43.67,medium,low,6,spaceship,,,30/09/2026 13:12
 feadf213-4dc9-4ad5-a034-7bff42cd1ef7,culture.surgery,available,43.67,43.67,high,medium,7,spaceship,,,01/10/2026 22:01
@@ -503,6 +531,7 @@ df6a22c8-e794-4170-8edb-bad89a1342b1,restart.surgery,available,43.67,43.67,high,
 b9f8ff55-1fbe-4359-85d7-6756ec697358,furnace.surgery,available,45.16,45.16,high,low,7,dynadot,,,28/09/2026 19:17
 a4a06817-7c2c-46d6-be55-e8059ac3f7ba,arrhenius.surgery,available,57.98,68.98,high,low,9,namecheap,,,20/09/2026 09:11
 9b01f4df-f95a-42ca-bbe6-496e058036c0,mfr.surgery,available,45.16,45.16,high,low,3,dynadot,,,01/10/2026 07:03
+54d21866-60ec-411d-bb66-1a8e5851f9f4,hydrography.surgery,available,54.99,54.99,high,low,11,namesilo,,,02/10/2026 22:23
 955f6838-89d2-4e07-b615-58ee6e482cbf,paton.surgery,available,54.99,54.99,medium,low,5,namesilo,,,18/09/2026 01:46
 c7747c9b-ff42-4565-837f-7a547f8f1cad,labour.surgery,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 04:26
 ec8697d5-14de-478e-8b93-e081edd1a105,honorific.surgery,available,54.99,54.99,medium,low,9,namesilo,,,21/08/2026 13:32
@@ -517,8 +546,10 @@ ae1f23d0-3f6b-4f74-8f98-e312b978428a,cooked.surgery,available,54.99,54.99,high,l
 99bc029f-49b4-4e1c-8d42-faf6d02a4f2c,surrender.surgery,available,42.2,42.2,high,low,9,cloudflare,,,28/09/2026 11:23
 4d34cc3a-926a-4ab1-9e61-7d98067b1c1d,skyward.surgery,available,54.99,54.99,high,low,7,namesilo,,,21/08/2026 05:26
 1e21ceca-078c-4ee6-8e25-311ac73517ef,buddha.surgery,available,54.99,54.99,high,low,6,namesilo,,,28/09/2026 05:20
+1b40bd20-16e9-464f-898c-d3eafbc87873,ltc.surgery,available,57.98,68.98,high,low,3,namecheap,,,02/10/2026 12:36
 1f7433a4-5712-4b12-bc26-379708aa8af6,inclusive.surgery,available,54.99,54.99,high,low,9,namesilo,,,22/08/2026 01:35
 0cd482ea-e0cd-4150-b4d5-14f34ef9bb1d,citing.surgery,available,54.99,54.99,high,low,6,namesilo,,,01/10/2026 06:07
+2dbb77a0-b6e6-4776-bc24-0f7ce681d035,nimh.surgery,available,42.2,42.2,medium,low,4,cloudflare,,,02/10/2026 19:26
 fbfcf66f-6c7d-435e-ac6f-9b12d9b5af9f,numerical.surgery,available,54.99,54.99,medium,low,9,namesilo,,,03/09/2026 22:52
 b306a6e7-8492-4e2f-8d3c-bd023c7b40e3,lenses.surgery,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 05:38
 93a8c956-f0e9-44f1-8d99-c89aa6657db2,insistent.surgery,available,54.99,54.99,medium,low,9,namesilo,,,13/08/2026 09:33
@@ -531,8 +562,10 @@ a46dd1d9-868e-48e0-9871-5777b91b3875,alps.surgery,available,57.98,68.98,high,low
 6528d153-bedd-4e92-9ace-66fd123867e9,sour.surgery,available,54.99,54.99,high,low,4,namesilo,,,20/08/2026 15:04
 758885f2-8484-41f5-b6fb-1f8eaec5ee7b,inwardly.surgery,available,54.99,54.99,medium,low,8,namesilo,,,15/09/2026 09:18
 f6c4a9d3-cb29-41af-9e77-42446fd854d8,dumbarton.surgery,available,54.99,54.99,medium,low,9,namesilo,,,29/09/2026 04:37
+f8202de1-ba03-4d3c-a413-26f9fe2121b9,industrially.surgery,available,43.67,43.67,medium,low,12,spaceship,,,02/10/2026 18:27
 fb289303-0924-4870-a300-0a2338661cb0,georg.surgery,available,57.98,68.98,medium,low,5,namecheap,,,25/09/2026 17:31
 86d769bb-ed7f-489d-8da7-95d40a03ecb5,frail.surgery,available,54.99,54.99,high,low,5,namesilo,,,18/08/2026 13:59
+46c4762d-d7af-4ff3-aa1b-0a0c0147ad4c,osteopathic.surgery,premium,242,242,high,low,11,namesilo,,,03/10/2026 03:21
 6b5ffc8d-8ce8-490b-892f-1b60bae6b70a,simon.surgery,available,54.99,54.99,high,medium,5,namesilo,,,25/09/2026 07:17
 d8ef3ef4-88e9-4edc-845e-88272ddb5abb,connected.surgery,available,54.99,54.99,high,medium,9,namesilo,,,19/09/2026 11:24
 2d3f23db-6949-4abf-a0ee-cf085ce62027,proverbial.surgery,available,54.99,54.99,high,low,10,namesilo,,,09/09/2026 04:32
@@ -548,6 +581,7 @@ abb55c5c-20a0-4733-9811-011a3e6ce93e,montpelier.surgery,available,57.98,68.98,me
 72b2528a-0001-4b4f-97f2-1072a848207b,lead.surgery,available,57.98,68.98,high,medium,4,namecheap,,,25/09/2026 13:15
 f44d8b17-be91-4916-a1c6-185b2f6d6e16,indiscreet.surgery,available,54.99,54.99,medium,low,10,namesilo,,,22/08/2026 03:07
 2f51744d-03c5-4287-a22a-d744426ea246,emory.surgery,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 15:34
+7c03def3-23b8-4c4e-92ab-0af992d077ef,munitions.surgery,available,54.99,54.99,low,low,9,namesilo,,,02/10/2026 13:17
 01cf782b-2e84-4bb9-a4b4-6e0d8abd3ac9,stabilization.surgery,available,54.99,54.99,medium,low,13,namesilo,,,17/09/2026 17:23
 d9e2e2aa-dc86-431a-b3d6-930af2086c58,osceola.surgery,available,54.99,54.99,medium,low,7,namesilo,,,29/09/2026 22:43
 063a0ab9-fa79-4e49-9350-5c1d50e61fc4,mumbai.surgery,premium,,,medium,low,6,,,,29/09/2026 00:13
@@ -571,7 +605,7 @@ ce3ccc1a-66d5-4bc7-a20e-6929067eec1c,tenants.surgery,available,43.77,43.77,mediu
 0bc53718-7101-4bc2-a616-52ff7596ae58,decorated.surgery,available,54.99,54.99,high,low,9,namesilo,,,21/09/2026 19:45
 d646d816-e68f-4310-a19a-1347873c311c,unavailable.surgery,available,43.67,43.67,medium,low,11,spaceship,,,29/09/2026 03:22
 b4807f20-0666-4d82-91df-74376c44910d,patent.surgery,available,54.99,54.99,high,low,6,namesilo,,,06/08/2026 05:19
-f2bfdbe3-223e-4280-bb5d-5792b11f130b,shopkeeper.surgery,available,43.67,43.67,high,low,10,spaceship,,,28/09/2026 02:48
+f2bfdbe3-223e-4280-bb5d-5792b11f130b,shopkeeper.surgery,available,45.16,45.16,high,low,10,dynadot,,,02/10/2026 05:44
 749fca68-a964-4567-ac3a-1b56e5540b95,antlia.surgery,available,54.99,54.99,medium,low,6,namesilo,,,19/09/2026 15:21
 9d988b77-dde0-4d50-b465-310c86b89861,cecil.surgery,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 09:15
 ce1ddb10-abe9-4f65-821c-b2522303cbf0,unprompted.surgery,available,54.99,54.99,medium,low,10,namesilo,,,21/08/2026 23:28
@@ -594,6 +628,7 @@ cdd19923-dec1-41fa-9751-a4254fbf179c,whitman.surgery,available,43.67,43.67,mediu
 c07ed02e-a9b7-41f1-8eb9-f41bbde29a06,alvine.surgery,available,54.99,54.99,medium,low,6,namesilo,,,
 085685e2-e347-4c25-89d1-5aa168403f9f,schulz.surgery,available,57.98,68.98,high,low,6,namecheap,,,28/09/2026 13:42
 665aa48e-ec36-49d6-a45b-5cded847a416,describing.surgery,available,43.67,43.67,low,low,10,spaceship,,,29/09/2026 04:44
+cebbea5e-f92c-4f5f-9d1e-dfe88104cd7c,heartache.surgery,available,57.98,68.98,medium,low,9,namecheap,,,02/10/2026 14:29
 7f70c0ac-56ee-4126-84d9-bfa007683533,factually.surgery,available,54.99,54.99,medium,low,9,namesilo,,,14/09/2026 17:27
 d5a703a8-bdf4-4bea-8c66-79daa04d65f1,humidity.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 01:18
 e1e7bf8e-e740-4d4f-86d1-09b52b6e4712,asparagus.surgery,available,54.99,54.99,high,low,9,namesilo,,,20/09/2026 14:40
@@ -610,7 +645,8 @@ ffc32ed4-1a1b-4d13-ac1f-6ee6264eb957,analogy.surgery,available,42.2,42.2,high,lo
 4f834ec9-9e2d-4a15-a141-92d60b4be3b1,bulldog.surgery,available,54.99,54.99,high,low,7,namesilo,,,24/09/2026 11:08
 34c80698-966e-4c02-bbca-fbdfc8057497,slew.surgery,available,54.99,54.99,high,low,4,namesilo,,,25/08/2026 00:42
 c5566c1d-dd54-4e2b-94ce-2f1c882eb534,ambush.surgery,available,54.99,54.99,high,low,6,namesilo,,,24/08/2026 12:29
-3e1e7ef3-00af-42d1-a437-9ed24b09f61f,fairs.surgery,available,54.99,54.99,high,low,5,namesilo,,,
+3e1e7ef3-00af-42d1-a437-9ed24b09f61f,fairs.surgery,available,43.67,43.67,high,low,5,spaceship,,,02/10/2026 07:33
+97271737-ecc3-4ab2-ab37-991b446bd8d8,castleton.surgery,available,43.77,43.77,medium,low,9,porkbun,,,02/10/2026 20:54
 3110de4e-4401-4e34-83a3-5488c4833212,atlantis.surgery,available,54.99,54.99,high,low,8,namesilo,,,20/09/2026 21:45
 02b7cb28-7457-4ca8-8fee-07639f99baf7,slab.surgery,available,43.67,43.67,high,low,4,spaceship,,,28/09/2026 20:30
 d794cd18-3060-4950-b667-90b532a676d1,moldy.surgery,available,57.98,68.98,medium,low,5,namecheap,,,25/09/2026 21:25
@@ -623,7 +659,9 @@ d794cd18-3060-4950-b667-90b532a676d1,moldy.surgery,available,57.98,68.98,medium,
 d42d0e1a-640a-44c0-8c68-e5b05c718220,vulvar.surgery,available,54.99,54.99,medium,low,6,namesilo,,,13/09/2026 07:29
 6c9ae8dc-5183-4fd8-a892-caca2b61ed4c,sparkles.surgery,available,57.98,68.98,high,low,8,namecheap,,,20/09/2026 19:19
 eeac2367-185b-4dcf-a95a-e98e37c7a8e9,mucous.surgery,available,54.99,54.99,medium,low,6,namesilo,,,03/09/2026 10:14
+397a3c5c-296d-4d84-8afe-2909a34269dc,muhammed.surgery,available,43.67,43.67,medium,low,8,spaceship,,,02/10/2026 09:49
 c4f7ff97-19be-4c01-a336-8a9520c842f7,admonition.surgery,available,54.99,54.99,medium,low,10,namesilo,,,17/09/2026 09:03
+a81e2ad3-0ea5-4994-b6bf-b4ae961d9072,sncc.surgery,available,54.99,54.99,medium,low,4,namesilo,,,03/10/2026 04:26
 3bcc9707-d99a-4ad4-8720-004c4ae0a180,wrapping.surgery,available,54.99,54.99,high,low,8,namesilo,,,28/09/2026 20:35
 c3b763aa-5500-4b71-837e-d6dad43751a5,cylinders.surgery,available,54.99,54.99,low,low,9,namesilo,,,30/09/2026 06:02
 daa7d1b1-b92d-458d-b2c6-46fed813d5b6,enactment.surgery,available,54.99,54.99,medium,low,9,namesilo,,,17/09/2026 04:06
@@ -640,10 +678,13 @@ ee8bd45b-b0bf-4e0d-960c-6e25a10da79f,lara.surgery,available,43.67,43.67,high,low
 ccbe1d4b-637b-4dbe-b2a1-d409b70170c8,eagles.surgery,available,54.99,54.99,high,low,6,namesilo,,,28/09/2026 16:13
 b9f82d90-0e2c-42d5-b15b-18dda974f2fa,midday.surgery,available,57.98,68.98,high,low,6,namecheap,,,29/09/2026 22:44
 dfdeee46-521a-427e-b6d5-ca9ff33a5d28,bavaria.surgery,available,54.99,54.99,high,low,7,namesilo,,,22/09/2026 16:42
+aa0e13aa-ede7-4555-8141-4862f884b3bb,incriminating.surgery,available,45.16,45.16,medium,low,13,dynadot,,,02/10/2026 17:43
 9370e2d0-0915-4c77-a0ba-8249df7d1edd,blaise.surgery,available,54.99,54.99,medium,low,6,namesilo,,,30/09/2026 13:38
 9f6980c2-833b-49cb-8644-f99a97fca10b,database.surgery,available,57.98,68.98,high,low,8,namecheap,,,29/09/2026 08:09
+f11a98bd-ce6a-47a3-89db-b4654610bd7e,economist.surgery,available,57.98,68.98,high,low,9,namecheap,,,02/10/2026 14:57
 2c623272-ba1c-4ee4-9968-bd97ec736ad1,rhine.surgery,available,43.67,43.67,high,low,5,spaceship,,,30/09/2026 17:42
 d6212840-e1df-41b0-9e39-60518adfa6f7,thiamine.surgery,available,54.99,54.99,high,low,8,namesilo,,,19/09/2026 05:38
+0b2498dc-13ce-4dd1-bc15-aee1e2b65691,gabriella.surgery,available,45.16,45.16,medium,low,9,dynadot,,,02/10/2026 19:50
 3c881edb-b2e0-45e0-ae6f-9e70f5a2ab6d,peiping.surgery,available,54.99,54.99,medium,low,7,namesilo,,,23/09/2026 04:16
 ec7855e4-baaa-434b-b494-1a4239494b83,unnumbered.surgery,available,54.99,54.99,medium,low,10,namesilo,,,13/08/2026 03:46
 dc73ba45-49a0-4b9f-b0ef-d49e3d4e3dd5,controller.surgery,available,54.99,54.99,high,low,10,namesilo,,,28/09/2026 06:44
@@ -651,16 +692,19 @@ dc73ba45-49a0-4b9f-b0ef-d49e3d4e3dd5,controller.surgery,available,54.99,54.99,hi
 b0dd7203-2233-4a21-b982-3f655f7c3e3a,ductile.surgery,available,54.99,54.99,medium,low,7,namesilo,,,14/08/2026 20:50
 dbace6d4-881a-4805-88a8-b6af1a58b021,baryta.surgery,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 09:42
 4b605a3b-c4cc-470c-9b99-ca78c139015d,crockett.surgery,available,42.2,42.2,medium,low,8,cloudflare,,,28/09/2026 01:43
+68eca6bd-c185-4ff1-9dc4-637be971826f,amit.surgery,available,43.67,43.67,high,low,4,spaceship,,,02/10/2026 19:09
 73a972cc-579a-4eea-8c7c-10cc6f3e6153,cruisers.surgery,available,93.99,93.99,medium,low,8,godaddy,,,01/10/2026 00:40
 867510a0-c36d-4f8f-b63b-17eeb13166ff,juana.surgery,available,54.99,54.99,medium,low,5,namesilo,,,29/09/2026 09:44
 95285871-90f7-4a11-a74f-b30c6144ad5d,comte.surgery,available,54.99,54.99,high,low,5,namesilo,,,21/09/2026 03:56
 f2973e6b-4776-462c-81db-8f66f88aab3b,buyer.surgery,available,45.16,45.16,high,low,5,dynadot,,,29/09/2026 05:39
-b0f95812-f726-4933-bc39-acc6641b36c0,undercover.surgery,available,54.99,54.99,high,low,10,namesilo,,,12/08/2026 09:28
+b0f95812-f726-4933-bc39-acc6641b36c0,undercover.surgery,available,54.99,54.99,medium,low,10,namesilo,,,02/10/2026 11:28
 b2a4509b-a418-43d1-990c-2d1477887bda,sprouted.surgery,available,54.99,54.99,medium,low,8,namesilo,,,10/09/2026 16:55
 18b5cfee-c238-4d8f-84e0-f826cd554785,pastor.surgery,available,57.98,68.98,high,low,6,namecheap,,,24/09/2026 20:20
 5d850e60-3462-420c-ac7f-3c90fe8ba0bc,recordings.surgery,available,43.67,43.67,medium,low,10,spaceship,,,29/09/2026 16:40
 ab96819a-63ac-49cc-8683-65af9e4997d7,furled.surgery,available,54.99,54.99,medium,low,6,namesilo,,,18/08/2026 18:44
 8ba5449c-3ff6-4acc-9e97-8c9eabd37567,docks.surgery,available,43.67,43.67,medium,low,5,spaceship,,,28/09/2026 17:14
+60c9c9cf-2b27-4d00-bbf2-62399465d1ca,scorpions.surgery,available,42.2,42.2,medium,low,9,cloudflare,,,02/10/2026 22:42
+18106807-4271-4dc5-9571-9800ee3295fe,autographed.surgery,available,54.99,54.99,high,low,11,namesilo,,,03/10/2026 03:40
 4ddae19d-0a9b-400c-af4a-eab6f1937391,bridges.surgery,available,42.2,42.2,high,low,7,cloudflare,,,29/09/2026 04:06
 843e1ea1-7ea8-4cfc-9081-59bccb9aaf91,hiemal.surgery,available,54.99,54.99,medium,low,6,namesilo,,,11/08/2026 06:40
 09262f28-0afd-40e9-b325-acea670aa4a4,forster.surgery,available,54.99,54.99,medium,low,7,namesilo,,,26/09/2026 03:41
@@ -674,7 +718,7 @@ d8f1de21-0c61-4c36-819f-642782bb9734,preacher.surgery,available,43.77,43.77,high
 47bc91e3-21f6-4f1e-a88d-6784fc43d57c,scalp.surgery,available,42.2,42.2,high,low,5,cloudflare,,,29/09/2026 08:01
 629326a2-b8c1-45ad-9a1f-0ef66c8c19d2,deerfield.surgery,available,42.2,42.2,high,low,9,cloudflare,,,29/09/2026 10:06
 914e7296-b351-40ef-9efd-7c121728067d,saman.surgery,available,54.99,54.99,high,low,5,namesilo,,,18/09/2026 03:12
-b17e94d8-ed80-4a95-acb6-d9908e0818b9,fabrication.surgery,available,43.67,43.67,high,low,11,spaceship,,,30/09/2026 17:24
+b17e94d8-ed80-4a95-acb6-d9908e0818b9,fabrication.surgery,available,43.67,43.67,high,low,11,spaceship,,,03/10/2026 03:22
 cce8bc51-71f5-4bd6-8587-44dc594b291d,pollock.surgery,available,54.99,54.99,high,low,7,namesilo,,,29/09/2026 13:11
 15e11f80-cb7a-4f60-a688-df7cfdcb0ada,ribbons.surgery,available,57.98,68.98,medium,low,7,namecheap,,,20/09/2026 07:05
 f691335b-7a6b-4d2e-a025-cf57a8974f4e,descend.surgery,available,54.99,54.99,high,low,7,namesilo,,,30/09/2026 17:09
@@ -688,6 +732,7 @@ dad0b9a9-1330-4ff8-a0ca-2a13b579dbbd,hearable.surgery,available,54.99,54.99,medi
 bc478fbb-ec42-4d46-998d-d6a1e0275a5c,chekhov.surgery,available,54.99,54.99,medium,low,7,namesilo,,,19/09/2026 15:27
 12613922-be1a-4a0b-80f2-d0c14c4af6b5,drubbing.surgery,available,54.99,54.99,medium,low,8,namesilo,,,13/09/2026 07:58
 43e96a6b-cd21-464e-aa91-2eb14ed28a58,moriarty.surgery,available,43.67,43.67,medium,low,8,spaceship,,,30/09/2026 13:37
+ae30c36c-5ab8-4c55-bdd7-a605e6919bf1,cutie.surgery,available,54.99,54.99,high,low,5,namesilo,,,03/10/2026 02:59
 e2c0c563-8f3c-4eb4-870f-948de8c2798a,parenthood.surgery,available,57.98,68.98,high,low,10,namecheap,,,30/09/2026 10:48
 88ad13a3-c325-4c99-be05-e4e92af16ee3,cme.surgery,available,54.99,54.99,high,low,3,namesilo,,,01/10/2026 23:50
 e93838bd-2006-486b-a516-e6f60b333f48,ace.surgery,premium,78.54,78.54,high,medium,3,namesilo,,,21/09/2026 10:41
@@ -701,11 +746,13 @@ ff0a6c5c-4864-4277-af28-6260627cbec8,expedition.surgery,available,43.67,43.67,hi
 c7b3533e-c0bd-41b1-be53-3f7c68071d00,spare.surgery,available,54.99,54.99,high,low,5,namesilo,,,24/09/2026 15:52
 f83d08f6-fd4a-437a-86fc-9e90dbf9224e,cunningham.surgery,available,54.99,54.99,high,low,10,namesilo,,,25/09/2026 04:27
 7653edb0-ee47-45ed-800a-7ac5d6021c3b,detailing.surgery,available,54.99,54.99,high,low,9,namesilo,,,29/09/2026 14:11
+d3e394c2-27eb-43e5-b8db-3e6f151c210d,unravel.surgery,available,42.2,42.2,high,low,7,cloudflare,,,02/10/2026 16:30
 37ea7dff-eafb-4745-a2e5-7341494ed771,unreported.surgery,available,57.98,68.98,medium,low,10,namecheap,,,12/09/2026 18:19
 afef728a-5518-4778-a3f1-6dbd07998dc5,avoidance.surgery,available,57.98,68.98,medium,low,9,namecheap,,,21/09/2026 09:49
 3191c34e-4e71-4d99-893e-2860f0024cea,rechargeable.surgery,available,43.67,43.67,high,low,12,spaceship,,,01/10/2026 05:50
 fc2f3cc9-a4b7-42dc-afff-6b3a3fa262d0,simulator.surgery,available,45.16,45.16,high,low,9,dynadot,,,30/09/2026 11:02
 ac7882b3-4d4f-4dad-8ba9-c8a4f7cbb421,abington.surgery,available,43.67,43.67,medium,low,8,spaceship,,,02/10/2026 01:44
+74ca01ff-5982-4b4f-8756-ddba84c653ba,booby.surgery,available,54.99,54.99,high,low,5,namesilo,,,02/10/2026 23:39
 5d9a377a-ea82-4f28-ac21-977ac950940f,chronicle.surgery,available,54.99,54.99,high,low,9,namesilo,,,16/09/2026 23:05
 fda68f18-7465-4a06-8f8b-a61deb1d479f,add.surgery,premium,128.7,128.7,high,low,3,namecheap,,,28/09/2026 18:19
 6395ddce-c6cb-4e03-8c5f-1a736f12c887,scooter.surgery,available,54.99,54.99,high,low,7,namesilo,,,30/09/2026 01:57
@@ -713,6 +760,7 @@ fda68f18-7465-4a06-8f8b-a61deb1d479f,add.surgery,premium,128.7,128.7,high,low,3,
 97337c43-14a2-4963-ab4b-6af75c2aeb0c,seduction.surgery,available,43.67,43.67,high,low,9,spaceship,,,30/09/2026 11:00
 015412dc-a038-4fdb-807c-5481faecce6c,glare.surgery,available,54.99,54.99,high,low,5,namesilo,,,24/09/2026 10:22
 04295e04-7bb9-413a-98a3-15b5a42c19ca,lambert.surgery,available,54.99,54.99,high,low,7,namesilo,,,28/09/2026 13:45
+8eaf13b7-53a8-4651-bed2-d06445b695cb,lefty.surgery,available,42.2,42.2,high,low,5,cloudflare,,,02/10/2026 05:35
 855a413e-1ccb-41ca-b976-b06ddcb7cea8,millennial.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/08/2026 23:16
 cdf0ce48-7294-4f55-9365-ad1216287617,grayish.surgery,available,54.99,54.99,medium,low,7,namesilo,,,20/08/2026 18:56
 5993fda1-0eae-4514-82ac-6a7b74aa22dd,washy.surgery,available,54.99,54.99,medium,low,5,namesilo,,,10/08/2026 13:56
@@ -756,13 +804,16 @@ e08aa9a3-a2fd-4ff6-ba7e-d29978d46b83,ashen.surgery,available,54.99,54.99,medium,
 74dc2ddc-fc20-4c15-8d3c-8fb8bd0617b6,msc.surgery,available,54.99,54.99,high,low,3,namesilo,,,27/09/2026 04:42
 d8611cf4-f007-4272-978e-ea839d7beb62,cimarron.surgery,available,54.99,54.99,high,low,8,namesilo,,,23/09/2026 15:12
 8bb28437-261f-4a9d-8bf5-a23ddc115fd9,commandery.surgery,available,43.67,43.67,medium,low,10,spaceship,,,29/09/2026 00:27
+9da9c933-9e2f-4df5-8c0e-2b85b5d1678d,manchuria.surgery,available,42.2,42.2,medium,low,9,cloudflare,,,03/10/2026 01:33
 32e2539e-6e68-4056-9e87-47608f118671,antipasto.surgery,available,54.99,54.99,medium,low,9,namesilo,,,19/09/2026 14:52
 67e46b1d-617d-45b1-b019-33b36c920082,rally.surgery,available,57.98,68.98,high,medium,5,namecheap,,,21/09/2026 19:55
+de68b24a-180c-4c10-b9a5-930b510213e0,chemung.surgery,available,43.67,43.67,medium,low,7,spaceship,,,03/10/2026 04:15
 9420c7ee-50a0-425b-a263-658082554ea4,brilliantly.surgery,available,43.67,43.67,high,low,11,spaceship,,,29/09/2026 21:24
 9854248e-b48a-4218-a11d-4afdb4c4fd56,gall.surgery,premium,128.7,128.7,medium,low,4,namecheap,,,23/09/2026 15:42
 e34bddfc-5471-4cec-81ca-64a2da6c0375,monument.surgery,available,54.99,54.99,high,low,8,namesilo,,,28/09/2026 14:54
 2e211273-6763-46ed-90cb-34e7bdd3bd26,cons.surgery,available,43.67,43.67,high,low,4,spaceship,,,01/10/2026 23:45
 b6160992-b4bc-4b87-97c9-cd73024787ed,snowstorms.surgery,available,54.99,54.99,low,low,10,namesilo,,,19/09/2026 21:56
+fb187b7a-85cb-4f18-a103-879cd5dc078d,cyr.surgery,available,54.99,54.99,medium,low,3,namesilo,,,03/10/2026 04:27
 488349b3-3b18-4047-8bf9-8a52125be266,cameo.surgery,available,43.67,43.67,high,low,5,spaceship,,,02/10/2026 04:15
 0a177723-9b43-4c32-9b38-7f87c5a08f32,rushes.surgery,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 06:26
 fe60f74a-4315-445e-8691-0bdc3cc39000,snare.surgery,available,42.2,42.2,high,low,5,cloudflare,,,01/10/2026 03:08
@@ -776,8 +827,11 @@ f51e9195-2a6f-41ed-92e9-309cb7f14f1e,stands.surgery,available,54.99,54.99,medium
 f5f546c4-b89c-485b-9e6a-94ec7472081d,andrei.surgery,available,54.99,54.99,high,low,6,namesilo,,,28/09/2026 04:07
 0ba337a2-c3ed-431c-b2f8-79b61105b446,select.surgery,available,54.99,54.99,high,medium,6,namesilo,,,22/09/2026 23:07
 6c6dc52d-fc90-4ce8-9bd9-4038c78d2801,ackee.surgery,available,54.99,54.99,medium,low,5,namesilo,,,17/09/2026 01:52
+f31f7c84-4450-4de4-9de5-99cd5c64eccf,bluebird.surgery,available,42.2,42.2,high,low,8,cloudflare,,,02/10/2026 23:37
+4457f8fb-c468-43c2-9a12-dcced4be89fb,vorticity.surgery,available,42.2,42.2,medium,low,9,cloudflare,,,02/10/2026 21:47
 dfd5c043-7c53-4812-b460-4b397370e2da,blackburn.surgery,available,54.99,54.99,high,low,9,namesilo,,,24/09/2026 02:11
 031c26e5-777f-4860-a60f-3f70ea7d731b,minimum.surgery,available,57.98,68.98,high,low,7,namecheap,,,25/09/2026 20:24
+ecc91dde-2ef3-46ba-ab05-67ae67e4251b,sindhi.surgery,available,43.67,43.67,medium,low,6,spaceship,,,03/10/2026 02:06
 3e18e0b9-7994-4e9d-ae39-a726c895e85c,imogen.surgery,available,45.16,45.16,high,low,6,dynadot,,,02/10/2026 00:11
 044fc6a1-63d6-4f0a-8066-e46ed8fb9fd4,angiogram.surgery,available,54.99,54.99,high,low,9,namesilo,,,19/09/2026 06:13
 9883a4fa-fb8c-49a4-b78d-46bead6193cb,elmira.surgery,available,43.67,43.67,medium,low,6,spaceship,,,28/09/2026 16:42
@@ -786,6 +840,7 @@ dfd5c043-7c53-4812-b460-4b397370e2da,blackburn.surgery,available,54.99,54.99,hig
 f0beab42-7fb0-4fce-9346-400f7c4ebc08,bragger.surgery,available,54.99,54.99,medium,low,7,namesilo,,,11/08/2026 01:14
 145d67ed-5bfc-4be0-a9b5-fdae955ed2b5,tattoo.surgery,premium,242,242,high,low,6,namesilo,,,27/09/2026 05:36
 ae70e027-3d34-4aa4-9681-0a4600cfe691,vacations.surgery,premium,128.7,128.7,medium,low,9,namecheap,,,20/09/2026 00:12
+4f754e99-4a94-4f9c-a3c0-cf3d43beb36f,conspired.surgery,available,43.77,43.77,low,low,9,porkbun,,,02/10/2026 23:11
 cf8bac67-d668-446e-a425-d51f525a6c2b,holler.surgery,available,57.98,68.98,high,low,6,namecheap,,,23/09/2026 00:27
 9527795e-380b-4456-b4d2-c2b8c4675152,hirschfeld.surgery,available,54.99,54.99,medium,low,10,namesilo,,,18/09/2026 01:20
 d34c2138-50e9-478c-b932-56f5e044459d,transporting.surgery,available,45.16,45.16,high,low,12,dynadot,,,29/09/2026 14:43
@@ -825,16 +880,20 @@ baa2914c-a5bc-4b2c-8d01-471af4be3dab,baths.surgery,available,43.67,43.67,high,lo
 b580140e-2c94-48d4-a349-a3ba1027b627,caltech.surgery,available,43.67,43.67,high,low,7,spaceship,,,30/09/2026 20:50
 9a45c454-c599-4e25-a977-6163f511f341,assortment.surgery,available,54.99,54.99,high,low,10,namesilo,,,25/08/2026 07:59
 a1b27e78-86cd-4d71-b37d-04cc6c337026,marker.surgery,available,43.67,43.67,high,low,6,spaceship,,,28/09/2026 06:21
+b19cbab6-cfe1-4612-9a75-119b21fb1c63,vichy.surgery,available,54.99,54.99,high,low,5,namesilo,,,02/10/2026 17:07
 37100495-48a8-4d0d-a5ca-6e6b00964ea2,nope.surgery,available,43.67,43.67,high,low,4,spaceship,,,01/10/2026 22:27
 a655786b-d25c-47d4-84ca-ccc22da16205,bad.surgery,premium,242,242,high,medium,3,namesilo,,,22/09/2026 16:05
+436d053c-a5c4-4e71-8cd9-2d8af1c1bf4f,shuts.surgery,available,45.16,45.16,low,low,5,dynadot,,,02/10/2026 13:52
 e7cd4517-1f47-407f-9b61-cef66e1511d7,robed.surgery,available,54.99,54.99,medium,low,5,namesilo,,,06/08/2026 05:03
 cc4a9b55-c2c4-47b5-8d08-6e02e8db413e,favored.surgery,available,57.98,68.98,high,low,7,namecheap,,,22/09/2026 20:01
 c24ba7d2-b336-4366-8b5b-8572f0d87cef,populus.surgery,available,43.67,43.67,high,low,7,spaceship,,,01/10/2026 19:46
 68e21dfc-abae-47cc-a64e-13e211e170ae,tiered.surgery,available,54.99,54.99,medium,low,6,namesilo,,,11/09/2026 15:49
+ad814b35-df8b-424d-8414-8e04f305b170,verner.surgery,available,43.67,43.67,medium,low,6,spaceship,,,03/10/2026 01:23
 62138548-a4e2-4d03-8dce-a07484008c0b,patrick.surgery,available,54.99,54.99,high,low,7,namesilo,,,25/09/2026 09:49
 7da8870e-e491-40f4-b3d0-7582bf9ece3d,entrusted.surgery,available,54.99,54.99,medium,low,9,namesilo,,,29/09/2026 16:07
 59967a85-500a-40a4-b523-e53c6ebca54f,zen.surgery,available,54.99,54.99,high,medium,3,namesilo,,,29/09/2026 00:17
 914c3ddf-6f4f-488e-ab7f-657d8fea668f,hefty.surgery,available,54.99,54.99,medium,low,5,namesilo,,,11/08/2026 02:48
+5aa3bb06-d1ed-4b35-b5ce-0f8125959033,genome.surgery,available,54.99,54.99,high,low,6,namesilo,,,02/10/2026 15:28
 54eb96b4-ee66-4ddc-a4a6-bdd76cb389c7,dishcloth.surgery,available,54.99,54.99,medium,low,9,namesilo,,,24/09/2026 22:40
 4badb756-0bb3-451b-838e-63a1e4a81591,redo.surgery,available,54.99,54.99,high,low,4,namesilo,,,30/09/2026 09:45
 73888211-d51b-41bb-b2ed-46f9c756ca3a,echoic.surgery,available,54.99,54.99,medium,low,6,namesilo,,,14/08/2026 23:34
@@ -844,6 +903,7 @@ d4c913c4-f252-4f77-8dbd-a0b230ed80f1,prate.surgery,available,54.99,54.99,medium,
 b35f8eb8-a28b-4b57-b3e2-b57f222ca2b8,shrine.surgery,available,42.2,42.2,high,low,6,cloudflare,,,28/09/2026 10:54
 4f4dc2cf-160d-4c48-9a78-b1dabc00b653,exalt.surgery,available,54.99,54.99,high,low,5,namesilo,,,
 4e67fd8e-8189-4947-87f1-612e48d1696f,causing.surgery,available,54.99,54.99,high,low,7,namesilo,,,24/09/2026 13:13
+2321cb74-7da5-4094-8576-1b2757c7c3ce,tint.surgery,available,54.99,54.99,high,low,4,namesilo,,,02/10/2026 16:59
 a072a171-d115-40da-bf9f-1cb075c6a01c,cinema.surgery,available,43.77,43.77,high,low,6,porkbun,,,01/10/2026 03:10
 9c2d0984-d2a0-4406-aa64-0fcee1b03423,undetected.surgery,available,54.99,54.99,medium,low,10,namesilo,,,12/09/2026 07:57
 5997d82a-00a8-46b6-9444-3cba86ec5593,mccarthy.surgery,available,54.99,54.99,high,low,8,namesilo,,,25/09/2026 08:04
@@ -851,13 +911,14 @@ a072a171-d115-40da-bf9f-1cb075c6a01c,cinema.surgery,available,43.77,43.77,high,l
 f5326fb9-9b63-4a06-a038-439182600832,nurture.surgery,available,54.99,54.99,high,low,7,namesilo,,,09/09/2026 11:05
 90f847ba-2d3f-4869-b531-2c73619f68b0,indications.surgery,available,54.99,54.99,medium,low,11,namesilo,,,30/09/2026 07:15
 877ac132-27cf-45a7-a7eb-78dde220373f,injuries.surgery,available,54.99,54.99,medium,low,8,namesilo,,,27/09/2026 21:38
-b117ccd2-197c-4c57-87d5-14f3792696e9,freelancer.surgery,available,43.67,43.67,high,low,10,spaceship,,,28/09/2026 07:52
+b117ccd2-197c-4c57-87d5-14f3792696e9,freelancer.surgery,available,54.99,54.99,high,low,10,namesilo,,,02/10/2026 11:10
 c3df9ab4-bc99-4121-9362-fced584da45a,thiamin.surgery,available,54.99,54.99,high,low,7,namesilo,,,19/09/2026 05:39
 0397a237-ca42-484e-b603-c3e72f98e807,cytologic.surgery,available,67.49,71.99,medium,low,9,name.com,,,13/08/2026 14:39
 3c20a8d1-8e44-4479-9851-8e44f453fe51,invitation.surgery,available,42.2,42.2,high,low,10,cloudflare,,,30/09/2026 00:21
 c47c431b-2cee-4f08-a99e-4fc799179120,rodent.surgery,available,42.2,42.2,medium,low,6,cloudflare,,,29/09/2026 19:04
 56303cd4-e754-44db-b10c-dfa7015429f8,annular.surgery,available,54.99,54.99,medium,low,7,namesilo,,,
 ab0d7862-af84-4645-ae95-1c9600c013ee,wabash.surgery,available,43.67,43.67,medium,low,6,spaceship,,,28/09/2026 03:15
+12bb62ea-07d6-405b-b309-0e586a1db83b,revere.surgery,available,54.99,54.99,high,low,6,namesilo,,,02/10/2026 06:02
 1d28a14d-1381-4d88-b039-e90665c64f3e,vindicator.surgery,available,57.98,68.98,medium,low,10,namecheap,,,19/09/2026 18:48
 e9646f4f-987c-4d31-8f98-fe75066b8108,jeanette.surgery,available,57.98,68.98,high,low,8,namecheap,,,29/09/2026 09:37
 aa35e0be-1b42-4475-a944-5092dbb95ce6,acarine.surgery,available,57.98,68.98,medium,low,7,namecheap,,,16/09/2026 21:33
@@ -885,6 +946,7 @@ abccb80e-4ac3-423c-beb2-3c7fa5c4829a,crustal.surgery,available,54.99,54.99,mediu
 6526fd32-4a7f-4303-9972-3731514487cc,kitchen.surgery,premium,78.54,78.54,high,low,7,namesilo,,,30/09/2026 01:38
 9984c9ba-a230-486f-be73-1986383f40d0,metal.surgery,available,57.98,68.98,high,low,5,namecheap,,,25/09/2026 19:55
 92dce93f-2692-4f54-9f4f-9c40cd50694a,atm.surgery,available,54.99,54.99,high,low,3,namesilo,,,20/09/2026 18:44
+9f5d9c5a-22cb-415c-8633-319d261afad0,mips.surgery,available,43.67,43.67,high,low,4,spaceship,,,03/10/2026 01:37
 4a4f7d99-ad15-400a-8232-b0f4ec501336,formulation.surgery,available,43.67,43.67,high,low,11,spaceship,,,01/10/2026 13:01
 6e820ca5-7f7a-4ba2-bfce-4445ed44660d,archetypal.surgery,available,54.99,54.99,medium,low,10,namesilo,,,06/08/2026 15:32
 bd7c731f-9bfc-46fc-b5ff-9ed764765093,cards.surgery,available,54.99,54.99,high,low,5,namesilo,,,24/09/2026 12:49
@@ -894,9 +956,11 @@ ac3978bc-4e98-4b9d-bbef-0b565c83460c,dazed.surgery,available,67.49,71.99,medium,
 844859fa-cec7-4aed-b74a-d3844da256aa,rake.surgery,available,54.99,54.99,high,low,4,namesilo,,,27/09/2026 07:07
 1167d223-5977-4462-befc-4d5074848a92,unfixed.surgery,available,54.99,54.99,medium,low,7,namesilo,,,12/09/2026 10:28
 1e7b1122-bfdb-4aa8-ad00-92860b70fd2e,mindless.surgery,available,54.99,54.99,medium,low,8,namesilo,,,07/08/2026 02:48
+7cf77f47-09b0-4581-9c19-384ab8dae7ed,nand.surgery,available,42.2,42.2,high,low,4,cloudflare,,,03/10/2026 03:06
 e0990ac2-6bc4-49d0-8b4d-3f74e000e516,blasted.surgery,available,54.99,54.99,medium,low,7,namesilo,,,10/08/2026 12:35
 60119899-cf1e-4153-9f72-ff28987796c0,weary.surgery,available,54.99,54.99,medium,low,5,namesilo,,,22/09/2026 15:10
 8dd8ad49-808c-43f2-8838-742831eb3b15,gide.surgery,available,54.99,54.99,high,low,4,namesilo,,,19/09/2026 04:13
+b3d0a09d-6193-401b-a51a-6867e21d4416,mediator.surgery,available,54.99,54.99,high,low,8,namesilo,,,02/10/2026 15:33
 55986b8a-9cbb-4cb9-a082-c5803b2e5793,stupid.surgery,available,42.2,42.2,high,low,6,cloudflare,,,28/09/2026 01:43
 aee4993f-e594-4f6a-b244-e2c0d3495c56,orangish.surgery,available,54.99,54.99,medium,low,8,namesilo,,,04/09/2026 17:26
 e76891ad-7b69-4c33-9388-5f46cdc6e2ea,absalom.surgery,available,43.67,43.67,medium,low,7,spaceship,,,01/10/2026 23:58
@@ -934,68 +998,4 @@ f7df0969-b281-4eb6-b9cf-e85a43435b22,cant.surgery,available,54.99,54.99,medium,l
 3dbd26f7-aa8c-4c14-a700-a5e82be8bd98,alcedo.surgery,available,54.99,54.99,high,low,6,namesilo,,,18/09/2026 03:52
 3ed9e0e6-b449-48e7-99cb-3d3b6dcc281a,snowball.surgery,available,54.99,54.99,high,low,8,namesilo,,,16/09/2026 17:20
 bcfaa06d-a0bf-41d7-9845-6dd4872b69e3,tracer.surgery,available,43.67,43.67,high,low,6,spaceship,,,01/10/2026 04:03
-2081dbfa-b2a9-4c5b-9f08-edbfbd7cf5da,welcomed.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 08:42
-df5f04f2-41c1-484a-a6cc-d5fcf60bfaff,notorious.surgery,available,57.98,68.98,high,low,9,namecheap,,,21/08/2026 19:05
-1218c731-bbdb-45ed-ac28-7a01e6fe68c0,atrium.surgery,available,67.49,71.99,high,low,6,name.com,,,21/09/2026 00:47
-b6b03064-1e2b-4af7-a14f-b29fcbde51a9,crawled.surgery,available,54.99,54.99,low,low,7,namesilo,,,01/10/2026 00:21
-1cfe2449-9452-4a8a-8cad-7bef56410866,gillette.surgery,available,54.99,54.99,high,low,8,namesilo,,,28/09/2026 05:50
-86fde4b3-8468-4a59-9e4d-5bfb897739c7,transitions.surgery,available,54.99,54.99,medium,low,11,namesilo,,,
-ec400b4f-26b8-4c65-b24b-6da1e8647b71,resembles.surgery,available,54.99,54.99,medium,low,9,namesilo,,,30/09/2026 07:07
-506e3320-b7d1-4ec3-9aa1-c298bcf055d8,beetle.surgery,available,54.99,54.99,high,low,6,namesilo,,,09/08/2026 08:17
-5ed80177-b3bc-4504-b506-4732a38ecddc,edamame.surgery,available,54.99,54.99,high,low,7,namesilo,,,20/09/2026 02:22
-fbc046a0-200d-4d74-a887-9ce29d26c2d8,danny.surgery,available,54.99,54.99,medium,low,5,namesilo,,,25/09/2026 17:19
-3a205f7c-ee24-4472-ac9a-9c611483acdb,goodenough.surgery,available,54.99,54.99,high,low,11,namesilo,,,
-0196b709-269f-4a02-8bbf-d9fcc3c2eac2,miss.surgery,available,54.99,54.99,high,low,4,namesilo,,,27/09/2026 03:56
-894a8f5f-dae6-4550-8a94-b07a5e360653,chary.surgery,available,54.99,54.99,medium,low,5,namesilo,,,12/08/2026 02:59
-b513b69c-6316-4d4a-b1b4-ecbfa02b4c55,foothills.surgery,available,43.67,43.67,medium,low,9,spaceship,,,02/10/2026 02:25
-a8ca6a67-7356-4c74-95ce-f331104254aa,tsr.surgery,available,54.99,54.99,high,low,3,namesilo,,,01/10/2026 06:45
-cb97e4f4-4c75-4c75-a845-d3f9026b7b07,impartial.surgery,available,54.99,54.99,high,low,9,namesilo,,,21/08/2026 21:45
-2965aa76-995c-43af-a621-60cef342db2c,sundays.surgery,available,54.99,54.99,high,low,7,namesilo,,,18/09/2026 10:50
-58f286bd-02c1-4880-9f47-92c22b6a35e5,mink.surgery,available,45.16,45.16,high,low,4,dynadot,,,01/10/2026 03:00
-0bfac153-da43-482f-968c-63db52d73aa0,acidotic.surgery,available,54.99,54.99,medium,low,8,namesilo,,,
-78da0853-4106-4290-ac9e-50b2022b651c,embryonic.surgery,available,54.99,54.99,medium,low,9,namesilo,,,16/08/2026 13:28
-f1d4084f-9f3c-47da-a279-d8a480120e64,snr.surgery,available,43.67,43.67,high,low,3,spaceship,,,30/09/2026 12:29
-b1edee15-98e7-4f5f-b5a4-f1f3bce2139b,proceed.surgery,available,43.67,43.67,high,low,7,spaceship,,,30/09/2026 17:54
-a7688cfa-a8e0-4dca-b124-e3d8d33b4985,assistance.surgery,available,54.99,54.99,high,low,10,namesilo,,,17/09/2026 20:44
-483db8c7-1905-4471-bde4-57eb79d62e58,eery.surgery,available,54.99,54.99,medium,low,4,namesilo,,,15/08/2026 12:45
-12a57bca-ab0d-479d-be92-230a3a8eb4c4,barytes.surgery,available,57.98,68.98,medium,low,7,namecheap,,,22/09/2026 06:13
-65ab0959-a5e0-4231-806c-28070d3ea6bf,passbook.surgery,available,54.99,54.99,high,low,8,namesilo,,,22/09/2026 02:44
-7f004c7c-332a-454a-ad64-7440b688d6cd,pyramid.surgery,available,54.99,54.99,high,low,7,namesilo,,,08/09/2026 13:53
-435abeb9-b84f-4766-882b-6ea222d7b6b5,dicey.surgery,available,54.99,54.99,medium,low,5,namesilo,,,12/08/2026 01:44
-c77ccec1-b520-477e-83e1-c63ac0213083,sloe.surgery,available,54.99,54.99,medium,low,4,namesilo,,,18/09/2026 10:21
-cbf1617a-a692-428f-a91b-8bea9044421f,reopening.surgery,available,54.99,54.99,high,low,9,namesilo,,,01/10/2026 06:34
-7abdd246-486a-4d80-a33d-9afa2cd68664,encouragement.surgery,available,43.67,43.67,medium,low,13,spaceship,,,28/09/2026 22:35
-3887c9e8-80a7-48dd-a2bb-4e48f1a75536,thankless.surgery,available,54.99,54.99,medium,low,9,namesilo,,,11/09/2026 12:28
-62f79757-ff6a-4852-b6b9-fb7740e48632,smelling.surgery,available,54.99,54.99,high,low,8,namesilo,,,27/09/2026 22:56
-8c09aef1-186c-4b1b-b7a4-a3b995b161bc,untreated.surgery,available,54.99,54.99,high,low,9,namesilo,,,12/09/2026 21:44
-ff90822c-ee39-491a-9516-f7839ba141dc,futile.surgery,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 23:49
-a5940f7e-fca8-4741-a42f-eec7c53d56c4,northerly.surgery,available,57.98,68.98,medium,low,9,namecheap,,,03/09/2026 21:23
-e026a2b4-3617-44b1-bce8-7befc98035a1,advertisements.surgery,available,67.49,,medium,low,14,name.com,,,
-07c94779-2785-4908-935f-bbec769141b8,bimonthly.surgery,available,54.99,54.99,high,low,9,namesilo,,,09/08/2026 22:42
-93b6919e-64e1-4230-84ec-7e1e26121a4b,immerse.surgery,available,57.98,68.98,high,low,7,namecheap,,,10/09/2026 19:49
-201e4e1e-ec18-4225-b4a1-7b876534cc7d,crop.surgery,available,57.98,68.98,high,low,4,namecheap,,,24/09/2026 19:07
-6cab784e-11cf-4360-9cd9-262dcbbd7a69,optimism.surgery,available,43.77,43.77,high,low,8,porkbun,,,29/09/2026 07:46
-ed578cb6-c63d-46f4-960e-c6a0219254eb,seductive.surgery,available,54.99,54.99,high,low,9,namesilo,,,10/09/2026 01:39
-f23dce5c-d614-42a7-abe1-89220a86788f,hives.surgery,available,43.67,43.67,high,low,5,spaceship,,,01/10/2026 02:36
-f4d4e3db-eb66-4dfa-8cbe-51849d0e2a5d,ghoulish.surgery,available,54.99,54.99,medium,low,8,namesilo,,,18/08/2026 23:21
-56dc0892-d72f-4c69-be8f-b059f0b2c262,ssl.surgery,available,42.2,42.2,high,low,3,cloudflare,,,01/10/2026 23:47
-c5af7cb8-366e-4a96-9e53-ecf9467562ce,annals.surgery,available,54.99,54.99,high,low,6,namesilo,,,19/09/2026 10:05
-c79754cc-de48-4e8f-875a-4a1e4273cb1e,deviant.surgery,available,54.99,54.99,high,low,7,namesilo,,,
-39f491ed-e77d-431c-b4c6-a12fdb9e1293,gilded.surgery,available,54.99,54.99,high,low,6,namesilo,,,14/08/2026 00:55
-5c466d99-e0f8-4095-b952-09ddc97125d3,fleer.surgery,available,57.98,68.98,low,low,5,namecheap,,,18/08/2026 17:47
-bebe5717-9689-4dcb-8535-20379a6c07f0,encouraging.surgery,available,54.99,54.99,high,low,11,namesilo,,,01/10/2026 06:18
-fcd811cd-3035-4bdc-92d4-a9606a1e47e0,chiefs.surgery,available,54.99,54.99,medium,low,6,namesilo,,,18/09/2026 03:19
-9339f8ca-11c1-4f2d-a1a5-d0075be0d340,stains.surgery,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 22:47
-ddef6327-89a0-4a7b-aaf0-8ee4580094b3,aeration.surgery,available,54.99,54.99,medium,low,8,namesilo,,,17/09/2026 12:46
-d504d49f-9eec-4fc5-bc8c-c0d76895edb7,cathodic.surgery,available,54.99,54.99,medium,low,8,namesilo,,,11/08/2026 21:56
-266d5926-7ae0-4bf7-bab5-3dc8c8b71263,silvervine.surgery,available,57.98,68.98,medium,low,10,namecheap,,,17/09/2026 04:49
-23bc4178-befa-4f66-a9dd-0ed070e68b98,investing.surgery,available,54.99,54.99,high,low,9,namesilo,,,02/10/2026 00:03
-8bb5e431-e84c-4db8-bc4e-2454232ffadc,irving.surgery,available,54.99,54.99,medium,low,6,namesilo,,,25/09/2026 07:50
-8c6acd48-1896-4631-8a36-3fb7cc06b858,timeline.surgery,available,54.99,54.99,high,low,8,namesilo,,,27/09/2026 05:39
-1f1d8ead-1a59-4d76-b374-313964a92a9d,midterm.surgery,available,43.77,43.77,high,low,7,porkbun,,,01/10/2026 20:32
-66bf4bb8-1911-4b08-bb38-d950b73c8ba7,pigboat.surgery,available,54.99,54.99,medium,low,7,namesilo,,,11/09/2026 00:21
-6af3fe7e-845a-43b3-baa0-55dc3460033b,bds.surgery,available,45.16,45.16,high,low,3,dynadot,,,30/09/2026 05:27
-6aed73fd-5600-45f4-95e7-6eefccc93af7,cove.surgery,available,57.98,68.98,high,low,4,namecheap,,,24/09/2026 18:51
-594917f3-78b5-4b97-b1e1-793e7dc9623c,individuality.surgery,available,43.67,43.67,medium,low,13,spaceship,,,01/10/2026 14:25
-5ae8a172-e9c1-4132-8453-6c5ad5a93c75,banditry.surgery,available,54.99,54.99,medium,low,8,namesilo,,,22/09/2026 01:24
-84c6435d-8c63-4c35-80fa-6b319db11b91,swish.surgery,available,54.99,54.99,high,low,5,namesilo,,,12/08/2026 09:55
+7703ccb5-1f10-465c-b1dc-3da96e004488,barangay.surgery,available,43.77,43.77,medium,low,8,porkbun,,,02/10/2026 18:11
